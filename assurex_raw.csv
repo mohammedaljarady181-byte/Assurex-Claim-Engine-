@@ -1,0 +1,1501 @@
+claim_id,product_category,product_age_months,warranty_period_months,receipt_available,serial_number_valid,damage_type,repair_history,purchase_price,claim_amount,days_since_purchase,claim_status
+1,Washing Machine,21,24,1,1,Electrical Failure,2,1281,347.39,637,Valid
+2,Washing Machine,39,12,0,0,Unknown,4,1675,1190.51,1165,Invalid
+3,TV,4,12,1,1,Battery Failure,2,646,144.92,115,Valid
+4,Refrigerator,8,12,1,1,Electrical Failure,2,1353,1189.54,233,Valid
+5,Refrigerator,10,36,1,1,Unknown,2,892,487.32,301,Manual Review
+6,Camera,50,24,0,1,Screen Damage,2,1640,972.72,1497,Manual Review
+7,Headphones,54,36,0,1,Unknown,2,66,8.55,1614,Invalid
+8,Tablet,3,12,1,1,Manufacturing Defect,0,105,44.82,99,Valid
+9,Tablet,46,36,0,0,Physical Damage,4,397,340.72,1380,Invalid
+10,Headphones,51,36,0,0,Water Damage,4,352,326.11,1521,Manual Review
+11,Camera,31,36,1,1,Electrical Failure,0,982,322.97,921,Valid
+12,Tablet,60,24,0,1,Manufacturing Defect,1,530,513.83,1809,Manual Review
+13,Headphones,18,12,1,0,Battery Failure,1,120,111.74,545,Manual Review
+14,TV,25,12,0,1,Physical Damage,2,636,124.59,742,Invalid
+15,Smartphone,23,36,1,1,Battery Failure,2,485,373.14,695,Valid
+16,Headphones,25,24,1,0,Physical Damage,2,147,23.77,760,Invalid
+17,Refrigerator,21,24,1,1,Software Failure,2,1756,1495.04,623,Valid
+18,Tablet,50,24,0,1,Water Damage,4,770,381.49,1491,Invalid
+19,Smartphone,37,12,0,0,Unknown,1,848,333.39,1120,Invalid
+20,TV,3,36,1,1,Battery Failure,1,920,779.37,81,Valid
+21,Washing Machine,27,12,0,0,Unknown,4,1767,1105.67,814,Invalid
+22,Camera,8,12,1,1,Battery Failure,0,2085,791.73,237,Valid
+23,TV,60,36,1,1,Unknown,2,467,266.44,1792,Invalid
+24,Camera,6,24,1,1,Battery Failure,0,1502,1118.94,181,Valid
+25,Camera,56,24,1,1,Unknown,3,351,171.99,1685,Invalid
+26,Camera,48,36,0,1,Water Damage,4,722,564.61,1431,Invalid
+27,Washing Machine,27,36,0,1,Manufacturing Defect,1,383,38.46,810,Manual Review
+28,Refrigerator,9,24,1,1,Electrical Failure,2,441,226.37,266,Valid
+29,Tablet,34,24,1,0,Physical Damage,4,942,322.8,1030,Invalid
+30,Tablet,14,12,0,0,Physical Damage,4,993,434.55,411,Invalid
+31,TV,42,24,0,1,Water Damage,3,1167,495.62,1253,Invalid
+32,Headphones,40,24,0,1,Water Damage,4,141,29.07,1199,Invalid
+33,Headphones,55,36,0,1,Manufacturing Defect,4,70,22.48,1650,Manual Review
+34,Headphones,12,12,1,0,Battery Failure,4,353,386.6,361,Manual Review
+35,Tablet,54,24,0,1,Unknown,1,680,147.35,1611,Manual Review
+36,Refrigerator,19,24,1,1,Manufacturing Defect,1,2478,394.88,574,Valid
+37,Smartphone,55,24,1,1,Manufacturing Defect,3,887,865.59,1653,Manual Review
+38,Smartphone,6,24,1,0,Software Failure,2,915,894.99,181,Manual Review
+39,Camera,28,24,0,0,Water Damage,4,484,238.79,836,Invalid
+40,Laptop,6,12,1,1,Battery Failure,1,959,657.48,187,Valid
+41,TV,54,36,0,0,Unknown,3,2447,1190.27,1614,Invalid
+42,Smartphone,21,36,1,1,Manufacturing Defect,0,1296,623.93,636,Valid
+43,Refrigerator,60,12,1,0,Physical Damage,2,1361,936.84,1798,Invalid
+44,Washing Machine,60,12,1,1,Unknown,2,1017,345.13,1808,Invalid
+45,Washing Machine,26,24,0,1,Manufacturing Defect,1,710,650.41,777,Manual Review
+46,Tablet,20,36,1,1,Software Failure,2,100,34.31,596,Valid
+47,Camera,40,36,0,0,Physical Damage,4,374,96.15,1191,Invalid
+48,Washing Machine,40,36,0,1,Physical Damage,1,876,623.9,1204,Invalid
+49,Smartphone,32,12,0,0,Software Failure,0,952,550.75,952,Manual Review
+50,TV,21,12,1,1,Water Damage,2,2299,301.98,638,Invalid
+51,Laptop,28,36,1,1,Manufacturing Defect,0,683,187.76,846,Valid
+52,Headphones,23,12,0,0,Water Damage,4,421,368.4,688,Invalid
+53,Camera,5,12,1,1,Battery Failure,1,699,96.6,153,Valid
+54,Tablet,57,12,0,0,Physical Damage,4,255,155.81,1708,Invalid
+55,Smartphone,60,12,1,0,Water Damage,2,904,123.13,1803,Invalid
+56,Laptop,13,36,1,1,Unknown,4,2915,2405.0,396,Manual Review
+57,Camera,29,24,0,1,Screen Damage,1,1417,1422.01,876,Manual Review
+58,Laptop,48,12,1,0,Physical Damage,4,2126,355.31,1450,Invalid
+59,Headphones,29,36,1,1,Manufacturing Defect,0,166,89.54,869,Valid
+60,TV,4,12,1,1,Manufacturing Defect,1,675,312.32,129,Valid
+61,Camera,60,12,1,0,Water Damage,1,925,778.56,1804,Invalid
+62,TV,50,24,1,1,Water Damage,2,1192,187.52,1503,Invalid
+63,Camera,48,24,1,0,Electrical Failure,0,243,73.02,1434,Manual Review
+64,Camera,2,24,1,1,Electrical Failure,0,2016,918.81,57,Valid
+65,Washing Machine,36,24,0,0,Unknown,3,1082,330.81,1073,Invalid
+66,Headphones,13,36,1,1,Electrical Failure,1,176,108.54,382,Valid
+67,Headphones,49,12,1,1,Physical Damage,3,199,145.25,1478,Manual Review
+68,Washing Machine,51,12,0,0,Water Damage,4,1785,891.23,1538,Invalid
+69,Smartphone,58,24,0,0,Water Damage,1,681,177.44,1749,Invalid
+70,Laptop,9,12,0,0,Screen Damage,4,1351,1480.68,276,Manual Review
+71,Headphones,18,12,0,0,Electrical Failure,1,367,328.56,530,Manual Review
+72,Tablet,41,36,0,0,Unknown,3,1132,911.39,1233,Invalid
+73,Washing Machine,26,12,1,0,Physical Damage,3,901,247.56,789,Invalid
+74,Camera,6,36,0,0,Software Failure,4,1256,324.16,184,Manual Review
+75,Camera,24,36,1,1,Software Failure,2,547,308.85,726,Valid
+76,Washing Machine,55,36,1,0,Software Failure,4,329,280.45,1641,Manual Review
+77,Tablet,60,24,0,0,Water Damage,3,407,93.49,1794,Invalid
+78,Washing Machine,19,12,1,0,Electrical Failure,1,731,678.05,564,Manual Review
+79,TV,11,12,1,1,Manufacturing Defect,1,1456,331.64,336,Valid
+80,Washing Machine,55,36,0,0,Unknown,4,1167,457.71,1646,Invalid
+81,TV,58,36,0,1,Water Damage,4,1204,819.98,1742,Manual Review
+82,Tablet,56,36,1,1,Manufacturing Defect,2,340,368.69,1678,Manual Review
+83,Refrigerator,10,12,0,0,Battery Failure,4,1056,114.78,304,Manual Review
+84,Washing Machine,44,24,0,1,Physical Damage,2,529,211.27,1311,Invalid
+85,TV,53,24,0,0,Unknown,1,2208,1163.12,1583,Invalid
+86,Headphones,6,24,1,1,Electrical Failure,1,399,143.44,188,Valid
+87,Headphones,16,12,0,0,Unknown,3,473,71.36,483,Invalid
+88,Washing Machine,8,36,1,1,Electrical Failure,2,933,591.07,240,Valid
+89,Laptop,40,12,0,0,Water Damage,2,1676,278.28,1208,Invalid
+90,Laptop,47,12,0,0,Unknown,2,2431,2172.19,1409,Invalid
+91,TV,33,36,0,0,Screen Damage,0,1447,1444.3,991,Manual Review
+92,Laptop,20,24,1,1,Software Failure,2,426,189.59,610,Valid
+93,TV,38,36,1,1,Software Failure,0,1482,1150.98,1143,Manual Review
+94,Laptop,7,12,1,1,Electrical Failure,0,1318,333.81,217,Valid
+95,Laptop,11,12,1,1,Software Failure,1,2609,1846.92,334,Valid
+96,TV,37,12,1,0,Water Damage,3,1565,1010.16,1112,Invalid
+97,Refrigerator,42,36,0,0,Water Damage,3,1993,976.5,1253,Invalid
+98,Smartphone,7,24,1,1,Manufacturing Defect,0,185,65.21,209,Valid
+99,Headphones,45,36,1,0,Electrical Failure,3,406,120.76,1351,Manual Review
+100,Tablet,15,36,1,1,Manufacturing Defect,2,409,43.89,456,Valid
+101,Headphones,59,36,0,0,Water Damage,3,195,127.41,1765,Invalid
+102,Laptop,26,12,0,0,Physical Damage,3,2950,2071.04,790,Invalid
+103,Camera,36,24,0,0,Unknown,2,284,243.81,1087,Invalid
+104,Tablet,34,24,1,1,Water Damage,3,238,129.92,1013,Invalid
+105,Tablet,31,36,0,1,Electrical Failure,0,232,219.21,928,Manual Review
+106,Headphones,21,24,1,1,Electrical Failure,2,469,412.28,636,Valid
+107,Washing Machine,21,36,1,1,Battery Failure,1,1562,1080.05,629,Valid
+108,Camera,31,36,1,1,Manufacturing Defect,2,765,393.93,937,Valid
+109,Tablet,48,24,0,1,Physical Damage,0,444,405.8,1443,Manual Review
+110,Headphones,37,24,1,0,Screen Damage,4,77,67.71,1117,Manual Review
+111,Laptop,27,12,1,1,Physical Damage,4,2375,2373.59,812,Manual Review
+112,Smartphone,45,36,1,1,Physical Damage,2,849,351.48,1358,Invalid
+113,Washing Machine,59,36,0,0,Water Damage,4,1212,851.15,1778,Invalid
+114,Smartphone,6,12,1,1,Battery Failure,0,608,531.83,182,Valid
+115,Smartphone,14,36,1,1,Water Damage,3,314,116.92,426,Manual Review
+116,Tablet,34,36,1,1,Manufacturing Defect,2,967,490.07,1010,Valid
+117,Tablet,28,36,1,1,Software Failure,0,805,686.88,842,Valid
+118,Tablet,18,36,0,1,Manufacturing Defect,4,224,164.75,542,Manual Review
+119,Refrigerator,22,24,1,0,Physical Damage,1,1601,1544.85,670,Manual Review
+120,Camera,18,24,1,1,Battery Failure,1,1194,362.97,540,Valid
+121,Washing Machine,7,24,1,1,Electrical Failure,0,843,351.22,220,Valid
+122,Camera,3,24,0,0,Electrical Failure,3,1303,1124.73,80,Manual Review
+123,Smartphone,34,24,1,1,Water Damage,1,1461,602.5,1014,Invalid
+124,Laptop,36,36,1,1,Battery Failure,1,2149,1741.71,1083,Valid
+125,TV,59,36,0,1,Physical Damage,3,805,320.66,1777,Invalid
+126,TV,60,12,1,0,Physical Damage,4,1505,1186.16,1792,Invalid
+127,Tablet,45,36,1,0,Physical Damage,4,769,355.75,1340,Invalid
+128,Headphones,46,36,0,1,Screen Damage,4,172,175.92,1370,Manual Review
+129,TV,10,12,1,1,Water Damage,0,2221,2148.98,294,Manual Review
+130,Refrigerator,16,24,1,1,Battery Failure,0,1084,485.35,483,Valid
+131,TV,49,24,0,1,Unknown,3,2246,1183.98,1474,Invalid
+132,TV,53,36,0,1,Physical Damage,3,2054,654.02,1590,Invalid
+133,Laptop,43,36,1,0,Water Damage,3,419,72.33,1288,Invalid
+134,Tablet,5,24,1,1,Manufacturing Defect,1,846,693.03,141,Valid
+135,Camera,11,12,1,1,Manufacturing Defect,1,881,577.23,320,Valid
+136,Camera,30,12,1,0,Screen Damage,3,2085,820.83,901,Manual Review
+137,Smartphone,35,36,1,1,Software Failure,1,211,52.76,1051,Valid
+138,Headphones,44,36,0,0,Electrical Failure,1,305,169.27,1323,Manual Review
+139,Headphones,38,24,0,0,Unknown,3,288,214.07,1143,Invalid
+140,Smartphone,48,36,1,1,Physical Damage,4,189,63.72,1450,Invalid
+141,Washing Machine,54,36,0,0,Unknown,3,1024,156.64,1614,Invalid
+142,Tablet,20,24,1,1,Software Failure,0,277,226.38,594,Valid
+143,Smartphone,20,24,1,1,Manufacturing Defect,0,190,80.14,597,Valid
+144,Camera,9,12,1,1,Battery Failure,1,1966,306.65,270,Valid
+145,Camera,13,24,1,1,Screen Damage,3,885,718.23,388,Manual Review
+146,Smartphone,51,12,0,1,Screen Damage,1,385,186.47,1534,Manual Review
+147,TV,23,24,1,1,Electrical Failure,1,887,518.64,683,Valid
+148,Laptop,60,24,0,1,Unknown,1,1814,1356.13,1806,Manual Review
+149,Headphones,14,12,1,0,Manufacturing Defect,3,186,19.36,410,Manual Review
+150,Camera,9,36,1,1,Electrical Failure,1,318,105.81,273,Manual Review
+151,Smartphone,53,24,1,0,Physical Damage,2,1128,1127.8,1594,Manual Review
+152,TV,28,24,1,0,Software Failure,2,2455,411.97,839,Manual Review
+153,Laptop,42,24,0,1,Software Failure,4,1088,1134.41,1268,Manual Review
+154,Laptop,8,24,1,1,Software Failure,0,1395,641.25,234,Valid
+155,Washing Machine,4,24,1,1,Electrical Failure,1,1119,777.31,122,Valid
+156,TV,38,12,1,1,Screen Damage,4,941,383.14,1143,Manual Review
+157,Smartphone,34,24,0,0,Software Failure,3,900,906.56,1025,Manual Review
+158,Camera,26,12,0,0,Software Failure,0,502,193.93,774,Manual Review
+159,Smartphone,30,36,1,1,Battery Failure,1,696,532.46,892,Valid
+160,Washing Machine,7,12,1,1,Manufacturing Defect,1,1328,530.1,212,Valid
+161,TV,28,24,1,0,Water Damage,2,1978,711.31,835,Invalid
+162,Smartphone,57,12,0,0,Software Failure,2,796,811.79,1712,Manual Review
+163,Camera,55,36,0,0,Water Damage,3,1427,793.73,1649,Invalid
+164,Refrigerator,44,36,0,0,Physical Damage,1,1549,765.62,1329,Invalid
+165,Camera,48,36,0,0,Physical Damage,1,2304,587.64,1450,Invalid
+166,Camera,41,24,0,0,Screen Damage,2,551,533.61,1238,Manual Review
+167,Washing Machine,15,24,1,1,Electrical Failure,4,913,965.11,444,Manual Review
+168,Laptop,6,12,1,1,Software Failure,1,2445,369.43,188,Valid
+169,Refrigerator,54,24,1,0,Unknown,3,1798,1570.33,1615,Invalid
+170,Smartphone,59,36,0,0,Unknown,0,253,215.92,1769,Manual Review
+171,Laptop,54,36,0,0,Physical Damage,2,1304,995.93,1628,Invalid
+172,TV,32,36,1,0,Electrical Failure,0,2013,2136.1,969,Manual Review
+173,Tablet,7,36,1,1,Manufacturing Defect,1,1002,126.95,211,Valid
+174,Washing Machine,17,24,0,1,Manufacturing Defect,0,1078,800.66,503,Manual Review
+175,Washing Machine,35,36,1,1,Software Failure,1,959,763.06,1047,Valid
+176,Camera,43,12,0,0,Unknown,1,1942,402.2,1295,Invalid
+177,Refrigerator,60,36,0,0,Water Damage,3,1001,660.9,1804,Invalid
+178,Tablet,51,12,0,1,Physical Damage,3,716,227.09,1531,Invalid
+179,Headphones,44,12,1,1,Unknown,1,334,205.01,1311,Invalid
+180,Smartphone,18,36,1,0,Water Damage,0,371,350.79,548,Manual Review
+181,Tablet,12,24,1,1,Battery Failure,2,646,427.3,370,Valid
+182,Camera,10,36,1,1,Manufacturing Defect,1,1285,476.54,302,Valid
+183,Laptop,3,12,1,1,Battery Failure,2,503,321.51,88,Valid
+184,TV,21,36,1,1,Manufacturing Defect,0,331,246.28,632,Valid
+185,Camera,44,36,1,1,Unknown,3,1366,845.23,1327,Invalid
+186,Laptop,57,36,0,0,Physical Damage,4,398,228.46,1720,Invalid
+187,Tablet,15,12,0,1,Unknown,4,1200,645.62,442,Invalid
+188,Camera,7,12,1,1,Manufacturing Defect,1,2137,1419.36,212,Valid
+189,Refrigerator,2,12,1,1,Software Failure,0,1268,777.75,69,Valid
+190,Camera,13,24,1,1,Electrical Failure,2,1737,314.65,395,Valid
+191,Laptop,56,24,0,0,Physical Damage,4,2759,1900.78,1684,Invalid
+192,Camera,21,24,1,1,Manufacturing Defect,0,1863,727.78,625,Valid
+193,Camera,39,24,1,1,Manufacturing Defect,0,936,699.41,1165,Manual Review
+194,Tablet,2,24,1,1,Manufacturing Defect,2,698,459.24,54,Valid
+195,TV,25,36,1,1,Software Failure,1,1417,1116.78,753,Valid
+196,Smartphone,56,36,0,1,Manufacturing Defect,0,198,191.24,1689,Manual Review
+197,Smartphone,43,36,0,1,Unknown,1,620,184.72,1285,Manual Review
+198,Refrigerator,9,12,1,1,Battery Failure,2,2004,674.21,261,Valid
+199,Tablet,7,12,1,1,Battery Failure,2,825,130.07,201,Valid
+200,Smartphone,43,36,1,0,Physical Damage,2,1200,124.16,1283,Invalid
+201,Smartphone,10,12,1,1,Software Failure,0,358,55.06,310,Valid
+202,Smartphone,18,36,1,1,Manufacturing Defect,0,659,436.36,539,Valid
+203,Smartphone,51,36,1,1,Water Damage,3,1475,226.99,1523,Invalid
+204,Headphones,50,12,1,1,Water Damage,2,340,309.82,1500,Manual Review
+205,Camera,15,24,1,1,Electrical Failure,1,757,257.64,459,Valid
+206,Tablet,32,36,0,0,Unknown,0,441,445.81,965,Manual Review
+207,Washing Machine,52,12,1,1,Water Damage,4,1292,542.81,1552,Manual Review
+208,TV,47,12,0,1,Software Failure,0,816,666.84,1415,Manual Review
+209,Laptop,4,36,0,1,Water Damage,1,2494,1038.55,119,Manual Review
+210,Laptop,3,12,1,1,Software Failure,1,1316,138.79,92,Valid
+211,Washing Machine,12,36,1,1,Electrical Failure,0,344,75.05,354,Valid
+212,Washing Machine,11,12,1,1,Battery Failure,2,510,195.3,337,Valid
+213,Smartphone,57,36,0,1,Physical Damage,2,106,44.58,1720,Invalid
+214,Headphones,7,36,1,1,Manufacturing Defect,2,306,235.26,202,Valid
+215,Smartphone,41,36,1,0,Electrical Failure,3,474,213.85,1234,Manual Review
+216,Headphones,37,36,1,0,Physical Damage,3,347,122.26,1118,Invalid
+217,Laptop,7,12,1,1,Manufacturing Defect,1,1708,995.73,201,Valid
+218,Camera,12,36,1,1,Battery Failure,2,1970,820.44,369,Valid
+219,Laptop,43,12,0,0,Software Failure,2,1780,1235.94,1299,Manual Review
+220,Washing Machine,25,24,1,1,Physical Damage,4,1193,504.79,742,Invalid
+221,TV,44,36,0,1,Water Damage,3,525,341.52,1325,Invalid
+222,Washing Machine,21,36,1,1,Battery Failure,0,1320,1183.74,634,Valid
+223,Refrigerator,8,12,1,1,Software Failure,2,2492,474.9,233,Valid
+224,Laptop,48,24,1,0,Physical Damage,4,680,90.0,1440,Invalid
+225,Camera,41,12,0,1,Physical Damage,4,1636,317.66,1222,Manual Review
+226,Headphones,59,12,0,0,Physical Damage,1,134,106.47,1765,Invalid
+227,Smartphone,13,12,0,1,Physical Damage,1,577,192.07,394,Manual Review
+228,Laptop,38,12,0,1,Unknown,1,991,150.4,1136,Invalid
+229,Refrigerator,49,36,0,0,Unknown,4,2384,1213.77,1464,Invalid
+230,Camera,8,36,1,1,Electrical Failure,1,2075,1232.32,239,Valid
+231,Laptop,10,36,0,0,Unknown,0,1624,263.46,294,Manual Review
+232,Camera,19,36,1,0,Battery Failure,2,963,901.75,563,Manual Review
+233,Laptop,37,24,0,0,Physical Damage,2,2172,1649.95,1106,Invalid
+234,Camera,39,12,1,0,Physical Damage,4,1345,619.48,1178,Invalid
+235,TV,13,36,1,0,Electrical Failure,0,1549,1692.02,397,Manual Review
+236,Headphones,27,36,1,1,Unknown,4,36,38.32,804,Manual Review
+237,Tablet,7,24,1,1,Battery Failure,4,509,130.6,209,Manual Review
+238,Headphones,40,36,1,0,Unknown,4,241,32.87,1201,Invalid
+239,Camera,20,36,1,1,Software Failure,0,817,171.48,596,Valid
+240,Tablet,60,12,1,1,Physical Damage,3,1070,873.96,1808,Invalid
+241,TV,45,24,0,0,Electrical Failure,2,2018,2127.94,1346,Manual Review
+242,Smartphone,21,12,1,1,Manufacturing Defect,4,1253,1170.9,640,Manual Review
+243,TV,3,12,1,1,Electrical Failure,0,1506,846.34,90,Valid
+244,Smartphone,8,36,1,0,Electrical Failure,1,458,478.77,250,Manual Review
+245,Tablet,47,24,0,1,Screen Damage,1,252,91.15,1408,Manual Review
+246,Tablet,37,24,1,1,Water Damage,3,230,212.0,1118,Manual Review
+247,Washing Machine,55,24,0,0,Water Damage,3,511,338.79,1656,Invalid
+248,Washing Machine,31,36,1,1,Software Failure,1,654,305.9,937,Valid
+249,Camera,47,36,0,0,Screen Damage,0,1628,1786.96,1403,Manual Review
+250,TV,45,12,1,0,Unknown,3,855,101.52,1357,Invalid
+251,Laptop,9,36,1,1,Manufacturing Defect,2,946,402.55,275,Valid
+252,Camera,48,24,0,1,Unknown,3,2165,1018.15,1441,Invalid
+253,Tablet,25,24,0,1,Water Damage,3,1021,486.97,750,Invalid
+254,TV,57,24,1,0,Water Damage,3,448,158.89,1717,Invalid
+255,TV,10,36,1,0,Physical Damage,0,1841,620.78,303,Manual Review
+256,Headphones,41,36,0,1,Water Damage,1,47,29.65,1230,Invalid
+257,Camera,8,12,1,1,Manufacturing Defect,1,1958,1093.97,250,Valid
+258,Headphones,55,24,1,0,Electrical Failure,3,139,137.33,1648,Manual Review
+259,Washing Machine,51,12,1,1,Manufacturing Defect,3,557,338.34,1538,Manual Review
+260,Smartphone,49,24,1,0,Physical Damage,1,1100,198.05,1466,Invalid
+261,Camera,41,12,1,0,Electrical Failure,2,2318,2415.37,1224,Manual Review
+262,Refrigerator,18,12,0,0,Unknown,1,457,308.41,543,Invalid
+263,Camera,21,36,1,1,Software Failure,1,2011,1288.05,636,Valid
+264,Washing Machine,54,36,1,1,Water Damage,2,902,414.06,1612,Invalid
+265,Washing Machine,41,36,1,1,Water Damage,3,1754,337.34,1231,Invalid
+266,Refrigerator,13,24,1,0,Manufacturing Defect,1,1210,1152.4,385,Manual Review
+267,TV,46,24,0,1,Water Damage,1,1289,512.96,1383,Invalid
+268,Headphones,38,24,1,0,Water Damage,1,488,128.05,1142,Manual Review
+269,Smartphone,13,36,1,1,Software Failure,0,1019,582.27,380,Valid
+270,TV,50,36,0,0,Unknown,4,495,345.27,1494,Invalid
+271,Washing Machine,23,36,1,1,Electrical Failure,2,1291,327.67,687,Valid
+272,Smartphone,19,36,1,0,Water Damage,3,1229,1221.52,563,Manual Review
+273,Washing Machine,58,24,0,1,Software Failure,3,1424,1525.45,1746,Manual Review
+274,Refrigerator,33,12,1,0,Manufacturing Defect,1,498,140.11,991,Manual Review
+275,Washing Machine,12,12,1,1,Electrical Failure,0,1122,1195.65,350,Manual Review
+276,Tablet,25,24,1,1,Water Damage,4,1089,914.21,745,Invalid
+277,TV,45,24,1,0,Unknown,3,1819,576.62,1354,Invalid
+278,Washing Machine,12,12,1,1,Electrical Failure,0,1663,949.84,355,Valid
+279,Tablet,9,24,1,1,Manufacturing Defect,3,922,908.17,280,Manual Review
+280,Washing Machine,1,12,1,1,Software Failure,0,644,540.51,33,Valid
+281,TV,19,36,1,1,Software Failure,1,2455,1186.32,562,Valid
+282,Headphones,13,12,1,0,Physical Damage,4,420,173.98,382,Invalid
+283,Tablet,25,12,0,0,Unknown,2,154,41.18,760,Invalid
+284,Washing Machine,33,36,1,1,Software Failure,2,1452,493.44,980,Valid
+285,Tablet,15,24,1,1,Battery Failure,3,291,144.56,445,Manual Review
+286,Washing Machine,56,36,0,0,Battery Failure,1,931,949.98,1671,Manual Review
+287,Washing Machine,17,24,1,1,Software Failure,0,1734,1037.71,516,Valid
+288,Camera,18,36,1,0,Software Failure,2,878,867.27,535,Manual Review
+289,TV,54,36,0,0,Unknown,3,1674,1455.24,1624,Invalid
+290,TV,12,24,1,1,Software Failure,1,2249,496.12,350,Valid
+291,Laptop,8,36,1,1,Battery Failure,1,1738,1185.15,250,Valid
+292,Camera,24,24,1,1,Electrical Failure,0,927,633.2,728,Valid
+293,Camera,11,24,1,1,Software Failure,1,455,120.79,333,Valid
+294,Smartphone,52,36,0,0,Unknown,4,1029,440.54,1552,Invalid
+295,Headphones,8,12,0,0,Screen Damage,1,192,110.0,235,Manual Review
+296,TV,39,24,0,0,Physical Damage,2,375,238.08,1176,Invalid
+297,Headphones,30,36,1,0,Battery Failure,2,286,224.42,901,Manual Review
+298,Washing Machine,37,24,0,1,Physical Damage,3,1783,370.48,1101,Invalid
+299,Tablet,52,36,1,0,Unknown,3,812,353.24,1567,Invalid
+300,Washing Machine,12,24,1,1,Manufacturing Defect,1,404,224.72,356,Valid
+301,Tablet,5,12,1,1,Software Failure,1,533,247.18,150,Valid
+302,Camera,16,12,0,0,Physical Damage,4,693,551.51,477,Invalid
+303,Camera,18,24,1,1,Electrical Failure,1,1271,492.79,545,Valid
+304,Laptop,3,36,0,1,Unknown,3,2883,1325.61,89,Manual Review
+305,Headphones,12,12,1,1,Electrical Failure,0,101,68.3,365,Valid
+306,Headphones,10,36,1,1,Software Failure,0,496,137.7,304,Valid
+307,Smartphone,27,36,1,1,Manufacturing Defect,0,522,80.3,819,Valid
+308,TV,53,12,0,1,Physical Damage,3,477,165.15,1596,Invalid
+309,Washing Machine,3,12,1,1,Manufacturing Defect,1,1267,832.24,84,Valid
+310,Tablet,23,12,0,1,Manufacturing Defect,1,662,216.71,693,Manual Review
+311,Laptop,9,12,1,1,Physical Damage,1,921,368.95,267,Manual Review
+312,Smartphone,19,24,1,1,Manufacturing Defect,0,1416,627.13,574,Valid
+313,Washing Machine,33,24,0,1,Unknown,1,1313,437.49,981,Manual Review
+314,TV,40,36,0,1,Water Damage,4,976,248.39,1197,Invalid
+315,Washing Machine,46,36,0,1,Physical Damage,1,1581,484.01,1382,Invalid
+316,Headphones,25,12,0,0,Water Damage,2,48,22.86,745,Invalid
+317,Refrigerator,45,36,1,1,Unknown,2,1942,1209.75,1351,Invalid
+318,Headphones,7,24,1,1,Manufacturing Defect,1,113,77.39,220,Valid
+319,Tablet,10,36,1,1,Battery Failure,2,791,612.25,308,Valid
+320,Refrigerator,42,12,1,0,Water Damage,4,1511,952.51,1261,Invalid
+321,TV,49,36,1,0,Unknown,3,499,87.94,1461,Invalid
+322,TV,8,36,1,0,Software Failure,3,206,71.82,236,Manual Review
+323,Camera,1,36,1,1,Manufacturing Defect,0,810,434.54,31,Valid
+324,Headphones,34,12,1,0,Manufacturing Defect,4,60,54.02,1026,Manual Review
+325,Smartphone,11,24,1,1,Battery Failure,0,1073,897.74,331,Valid
+326,Refrigerator,54,36,0,1,Unknown,2,1222,327.22,1619,Invalid
+327,Refrigerator,41,36,0,1,Unknown,3,445,241.55,1237,Invalid
+328,Headphones,16,24,1,1,Manufacturing Defect,0,231,116.51,477,Valid
+329,TV,11,12,1,1,Manufacturing Defect,2,2029,1060.23,331,Valid
+330,Smartphone,9,24,1,1,Battery Failure,0,654,140.03,273,Manual Review
+331,Refrigerator,4,36,1,0,Battery Failure,0,823,155.34,113,Manual Review
+332,Camera,33,36,0,0,Unknown,2,1180,283.4,986,Manual Review
+333,Refrigerator,40,24,1,1,Water Damage,0,1024,958.12,1208,Manual Review
+334,Refrigerator,2,12,1,1,Manufacturing Defect,2,1162,580.11,62,Valid
+335,TV,44,24,0,1,Physical Damage,2,1485,288.64,1326,Manual Review
+336,TV,2,24,0,1,Screen Damage,3,304,138.37,56,Manual Review
+337,TV,27,24,1,1,Battery Failure,3,1652,1371.29,800,Manual Review
+338,TV,8,12,1,1,Manufacturing Defect,0,1407,163.3,238,Valid
+339,Smartphone,41,12,1,1,Screen Damage,1,730,561.99,1226,Manual Review
+340,Smartphone,44,36,1,0,Water Damage,2,503,116.49,1319,Invalid
+341,Camera,8,12,1,1,Battery Failure,2,883,434.18,234,Valid
+342,Smartphone,45,36,0,0,Water Damage,4,916,440.58,1355,Invalid
+343,Camera,53,12,1,0,Electrical Failure,3,540,381.83,1599,Manual Review
+344,Laptop,37,36,1,1,Battery Failure,2,1134,1023.22,1118,Manual Review
+345,TV,34,36,1,1,Battery Failure,2,1759,414.42,1018,Valid
+346,Tablet,53,12,1,0,Water Damage,1,1097,180.54,1580,Invalid
+347,Refrigerator,5,12,0,1,Water Damage,4,2057,2153.24,148,Manual Review
+348,Smartphone,32,24,0,1,Manufacturing Defect,2,1016,434.69,955,Manual Review
+349,Tablet,38,36,1,0,Screen Damage,3,232,54.28,1150,Manual Review
+350,Headphones,2,12,1,1,Software Failure,2,304,34.4,66,Valid
+351,TV,46,12,0,1,Water Damage,4,2424,1283.82,1372,Invalid
+352,Smartphone,56,24,0,0,Unknown,1,669,201.8,1689,Invalid
+353,Refrigerator,30,24,0,0,Water Damage,2,2197,1329.37,910,Invalid
+354,Headphones,48,24,1,1,Unknown,4,441,150.88,1434,Invalid
+355,TV,15,36,1,1,Battery Failure,1,1877,958.44,440,Valid
+356,Washing Machine,60,36,1,0,Water Damage,1,1618,528.06,1791,Invalid
+357,Washing Machine,15,12,1,1,Electrical Failure,2,439,420.39,457,Manual Review
+358,Camera,4,12,1,1,Battery Failure,1,413,253.15,121,Valid
+359,Headphones,4,12,1,1,Electrical Failure,0,59,33.24,127,Valid
+360,Laptop,5,36,1,0,Water Damage,1,2763,1986.56,145,Manual Review
+361,TV,48,12,0,1,Water Damage,0,299,180.38,1436,Manual Review
+362,Smartphone,21,24,1,1,Manufacturing Defect,2,436,367.96,627,Valid
+363,Tablet,38,12,1,0,Screen Damage,3,602,218.09,1138,Manual Review
+364,Camera,45,24,1,0,Software Failure,1,592,583.75,1348,Manual Review
+365,Headphones,35,24,0,0,Unknown,1,462,105.11,1053,Invalid
+366,Headphones,9,36,0,0,Battery Failure,0,333,191.29,274,Manual Review
+367,Smartphone,10,36,0,0,Screen Damage,1,1313,707.81,296,Manual Review
+368,Tablet,22,24,1,0,Water Damage,0,173,134.31,666,Manual Review
+369,Washing Machine,33,36,1,1,Electrical Failure,0,826,686.6,995,Valid
+370,Headphones,8,12,1,1,Electrical Failure,1,389,209.82,245,Valid
+371,Smartphone,39,12,0,1,Software Failure,4,949,719.91,1165,Manual Review
+372,Headphones,55,36,1,1,Physical Damage,3,479,372.59,1640,Invalid
+373,Washing Machine,35,24,1,0,Physical Damage,1,1666,810.2,1045,Invalid
+374,Refrigerator,20,36,1,1,Software Failure,0,2229,1183.3,601,Valid
+375,Camera,10,12,1,1,Battery Failure,0,1047,779.34,308,Valid
+376,Refrigerator,1,12,1,1,Electrical Failure,0,1472,337.48,34,Valid
+377,Smartphone,40,12,0,0,Unknown,4,1362,523.69,1200,Invalid
+378,Headphones,58,36,0,0,Unknown,4,428,165.58,1730,Invalid
+379,Tablet,39,24,1,1,Physical Damage,2,147,131.35,1177,Invalid
+380,Camera,2,36,1,1,Software Failure,2,2434,807.45,59,Valid
+381,Tablet,39,24,0,0,Physical Damage,1,403,154.15,1174,Invalid
+382,Headphones,54,36,1,1,Unknown,4,273,150.1,1615,Invalid
+383,Headphones,1,24,1,1,Software Failure,0,382,316.11,40,Valid
+384,Headphones,12,12,1,1,Water Damage,1,209,185.7,360,Manual Review
+385,TV,22,12,1,1,Manufacturing Defect,4,1949,1859.05,658,Manual Review
+386,Tablet,44,24,0,1,Battery Failure,2,1097,362.68,1310,Manual Review
+387,Camera,36,12,1,1,Electrical Failure,1,1838,854.4,1083,Manual Review
+388,Headphones,4,12,1,1,Software Failure,2,213,119.25,119,Valid
+389,Refrigerator,32,36,1,1,Unknown,0,1844,1850.58,969,Manual Review
+390,Washing Machine,48,36,1,1,Unknown,0,469,511.21,1434,Manual Review
+391,Headphones,34,12,0,0,Screen Damage,1,471,476.15,1020,Manual Review
+392,Tablet,60,36,1,0,Unknown,1,833,532.78,1803,Invalid
+393,Smartphone,10,24,1,1,Electrical Failure,1,1106,869.97,293,Valid
+394,Washing Machine,20,24,0,1,Physical Damage,1,1736,290.89,602,Manual Review
+395,Refrigerator,47,24,1,0,Physical Damage,2,462,318.57,1402,Invalid
+396,Tablet,57,24,0,0,Water Damage,0,1043,1076.77,1714,Manual Review
+397,Tablet,26,12,1,0,Physical Damage,1,429,176.44,790,Invalid
+398,Refrigerator,11,24,1,1,Manufacturing Defect,0,2277,1359.2,338,Valid
+399,Refrigerator,50,36,0,0,Physical Damage,3,2236,1471.31,1490,Invalid
+400,Headphones,50,36,1,1,Physical Damage,3,40,26.27,1508,Invalid
+401,Washing Machine,1,12,1,1,Electrical Failure,2,993,745.55,25,Valid
+402,Laptop,30,24,0,1,Water Damage,2,2579,2318.67,903,Invalid
+403,Smartphone,45,36,0,1,Physical Damage,2,1397,927.19,1360,Invalid
+404,Headphones,5,12,1,1,Battery Failure,0,384,59.23,148,Valid
+405,Headphones,43,24,1,1,Electrical Failure,0,267,115.75,1280,Manual Review
+406,Washing Machine,47,24,0,0,Physical Damage,1,767,214.34,1404,Invalid
+407,Tablet,22,36,1,1,Software Failure,2,608,190.57,653,Valid
+408,Laptop,47,12,0,0,Battery Failure,4,535,580.97,1400,Manual Review
+409,Laptop,22,24,1,1,Software Failure,0,697,84.05,655,Valid
+410,Refrigerator,7,36,1,1,Battery Failure,1,642,573.94,220,Valid
+411,Tablet,6,36,1,1,Electrical Failure,2,871,535.49,180,Valid
+412,Camera,4,36,0,0,Manufacturing Defect,1,339,332.0,110,Manual Review
+413,Tablet,8,12,1,1,Battery Failure,0,533,398.03,234,Valid
+414,TV,53,36,0,0,Water Damage,1,542,287.66,1594,Invalid
+415,Tablet,49,36,1,1,Water Damage,1,771,395.65,1466,Invalid
+416,Headphones,8,36,1,1,Software Failure,0,312,104.38,250,Valid
+417,Refrigerator,25,24,0,1,Water Damage,4,2214,659.17,741,Invalid
+418,Headphones,2,24,1,1,Software Failure,2,279,31.41,67,Valid
+419,Camera,30,36,1,1,Electrical Failure,2,247,159.12,893,Valid
+420,Laptop,12,12,1,1,Electrical Failure,0,1214,256.92,353,Valid
+421,Headphones,58,12,0,1,Water Damage,4,325,114.62,1732,Invalid
+422,Refrigerator,58,24,0,1,Unknown,1,1404,671.06,1732,Invalid
+423,TV,26,36,1,0,Water Damage,1,633,620.61,780,Manual Review
+424,Smartphone,5,36,1,1,Battery Failure,2,688,617.78,142,Valid
+425,Laptop,13,12,1,0,Manufacturing Defect,3,2328,550.75,395,Manual Review
+426,Refrigerator,10,12,1,1,Electrical Failure,0,2456,1568.55,291,Valid
+427,Tablet,15,12,0,0,Water Damage,2,642,252.73,458,Invalid
+428,Camera,43,12,0,0,Unknown,2,276,87.03,1298,Invalid
+429,Tablet,34,12,0,1,Physical Damage,4,172,106.04,1025,Invalid
+430,Camera,11,24,1,0,Manufacturing Defect,3,309,48.99,334,Manual Review
+431,TV,23,36,1,1,Manufacturing Defect,0,1352,670.48,700,Valid
+432,Smartphone,5,24,1,0,Battery Failure,0,956,621.77,160,Manual Review
+433,Headphones,51,36,1,0,Unknown,4,127,70.28,1537,Invalid
+434,Headphones,51,24,0,0,Battery Failure,2,418,317.76,1523,Manual Review
+435,Tablet,29,36,1,1,Manufacturing Defect,1,846,542.36,867,Valid
+436,Washing Machine,22,12,0,1,Unknown,3,978,817.91,651,Invalid
+437,Refrigerator,25,12,0,0,Water Damage,1,1493,872.63,759,Invalid
+438,Smartphone,60,12,0,0,Unknown,3,492,84.61,1809,Invalid
+439,Headphones,22,24,1,1,Software Failure,2,82,8.68,661,Valid
+440,Smartphone,57,36,0,0,Physical Damage,1,753,400.55,1704,Invalid
+441,Washing Machine,58,36,0,0,Unknown,2,783,148.41,1746,Invalid
+442,Refrigerator,37,24,0,0,Water Damage,3,852,519.31,1119,Invalid
+443,Camera,49,36,0,1,Battery Failure,3,1132,318.7,1475,Manual Review
+444,Washing Machine,15,12,0,0,Software Failure,1,430,253.32,459,Manual Review
+445,Camera,40,24,0,1,Battery Failure,4,2252,791.44,1205,Manual Review
+446,Laptop,37,36,1,0,Unknown,1,1745,1531.47,1112,Invalid
+447,Smartphone,58,12,0,1,Electrical Failure,4,1219,1263.46,1750,Manual Review
+448,Camera,31,24,0,1,Unknown,3,1655,502.93,922,Invalid
+449,TV,55,36,0,0,Physical Damage,2,1160,208.84,1659,Invalid
+450,Laptop,53,24,0,0,Physical Damage,4,447,56.45,1597,Invalid
+451,Smartphone,31,36,1,1,Electrical Failure,2,1284,721.75,921,Valid
+452,Washing Machine,23,24,1,1,Software Failure,1,1656,1417.79,697,Valid
+453,Smartphone,2,24,1,1,Electrical Failure,1,867,385.42,57,Valid
+454,Camera,23,36,1,1,Screen Damage,1,660,574.42,689,Manual Review
+455,Tablet,28,36,1,1,Battery Failure,0,307,112.02,836,Valid
+456,Camera,27,36,1,0,Electrical Failure,4,1342,477.11,803,Manual Review
+457,Headphones,11,12,1,1,Battery Failure,1,396,132.06,328,Valid
+458,Laptop,32,24,1,0,Physical Damage,3,1480,807.64,951,Invalid
+459,Laptop,38,36,1,0,Physical Damage,3,2747,400.98,1135,Invalid
+460,Camera,14,24,1,1,Software Failure,1,421,268.89,430,Valid
+461,Headphones,34,36,1,1,Electrical Failure,0,479,365.59,1027,Valid
+462,Headphones,5,12,1,1,Manufacturing Defect,1,341,300.58,143,Manual Review
+463,Laptop,32,24,0,0,Physical Damage,2,1456,1040.1,969,Invalid
+464,Headphones,11,24,1,1,Software Failure,0,304,117.54,326,Valid
+465,TV,31,24,1,1,Water Damage,4,1793,1156.76,929,Invalid
+466,TV,18,12,1,1,Physical Damage,1,1976,1042.34,530,Invalid
+467,Refrigerator,3,12,1,0,Electrical Failure,3,1821,602.25,95,Manual Review
+468,Tablet,45,36,1,0,Physical Damage,2,457,268.91,1341,Invalid
+469,TV,6,36,1,1,Physical Damage,1,1009,958.34,179,Manual Review
+470,Smartphone,53,24,1,0,Water Damage,4,470,56.08,1583,Manual Review
+471,Smartphone,54,24,0,1,Physical Damage,2,858,516.04,1630,Invalid
+472,Tablet,40,36,0,1,Water Damage,3,245,179.82,1207,Invalid
+473,Washing Machine,34,12,0,0,Unknown,2,1427,877.11,1022,Invalid
+474,Washing Machine,57,24,0,1,Physical Damage,1,1080,638.21,1714,Invalid
+475,Camera,34,36,0,1,Screen Damage,2,615,384.19,1010,Manual Review
+476,Headphones,2,24,1,1,Battery Failure,1,391,127.53,64,Valid
+477,Laptop,3,12,1,1,Electrical Failure,2,2631,2202.03,94,Valid
+478,Laptop,1,36,1,1,Manufacturing Defect,1,2094,1436.63,25,Valid
+479,Headphones,36,36,1,1,Electrical Failure,1,113,87.02,1078,Valid
+480,Headphones,41,24,0,0,Screen Damage,1,139,146.41,1235,Manual Review
+481,Washing Machine,20,24,1,1,Manufacturing Defect,1,1480,373.05,591,Valid
+482,Washing Machine,57,36,1,0,Battery Failure,2,1371,888.43,1711,Manual Review
+483,Refrigerator,7,36,0,0,Software Failure,3,1140,428.8,217,Manual Review
+484,Smartphone,14,24,1,0,Screen Damage,2,1431,1541.32,423,Manual Review
+485,Laptop,44,36,0,0,Physical Damage,4,2881,1220.27,1320,Invalid
+486,Tablet,8,24,1,0,Battery Failure,2,563,268.3,241,Manual Review
+487,Tablet,42,36,1,1,Unknown,3,443,300.95,1260,Invalid
+488,TV,9,24,1,1,Screen Damage,0,512,153.68,275,Manual Review
+489,TV,6,24,0,0,Software Failure,0,2155,2176.48,182,Manual Review
+490,Headphones,9,12,1,1,Software Failure,0,450,290.06,261,Valid
+491,Washing Machine,10,12,1,1,Battery Failure,2,1417,345.67,307,Valid
+492,Camera,14,24,1,1,Software Failure,1,219,28.51,416,Valid
+493,Washing Machine,29,24,0,1,Screen Damage,3,1158,601.01,860,Manual Review
+494,TV,56,12,0,0,Unknown,1,660,456.5,1677,Invalid
+495,Smartphone,57,24,0,0,Unknown,4,1081,808.34,1703,Invalid
+496,TV,3,12,1,1,Manufacturing Defect,1,907,742.78,94,Valid
+497,Laptop,31,12,1,0,Water Damage,4,2382,2099.23,923,Invalid
+498,Laptop,2,12,1,1,Battery Failure,1,2138,1166.47,66,Valid
+499,Camera,58,36,0,0,Water Damage,1,1335,963.45,1742,Invalid
+500,Headphones,19,36,1,1,Software Failure,0,303,88.27,575,Valid
+501,TV,32,36,0,1,Manufacturing Defect,2,867,700.71,969,Manual Review
+502,TV,29,24,1,0,Water Damage,1,1859,1329.85,866,Invalid
+503,TV,58,36,1,0,Physical Damage,2,580,435.16,1744,Invalid
+504,Refrigerator,4,36,1,1,Manufacturing Defect,0,1264,394.01,112,Valid
+505,Laptop,26,36,1,0,Battery Failure,2,1534,183.15,777,Manual Review
+506,Headphones,20,36,0,0,Software Failure,0,115,28.74,594,Manual Review
+507,Refrigerator,51,36,1,1,Electrical Failure,2,1893,1552.34,1530,Manual Review
+508,Headphones,4,12,1,1,Software Failure,0,404,300.89,113,Valid
+509,Laptop,15,36,1,1,Electrical Failure,2,2715,1707.59,446,Valid
+510,Smartphone,20,24,1,1,Screen Damage,2,1365,1453.85,594,Manual Review
+511,Camera,47,24,0,0,Water Damage,2,1214,349.26,1409,Invalid
+512,Camera,11,12,1,1,Battery Failure,1,542,188.58,336,Valid
+513,Tablet,7,12,1,1,Electrical Failure,2,579,256.72,202,Valid
+514,Washing Machine,34,24,1,0,Software Failure,2,1376,902.12,1025,Manual Review
+515,Headphones,46,24,0,1,Water Damage,3,188,99.77,1380,Manual Review
+516,Laptop,46,36,1,0,Software Failure,2,2153,966.55,1372,Manual Review
+517,Headphones,55,36,0,0,Physical Damage,4,97,18.13,1646,Invalid
+518,Headphones,31,36,1,1,Battery Failure,0,62,41.72,934,Valid
+519,Tablet,9,12,1,1,Software Failure,0,759,226.65,270,Valid
+520,Washing Machine,1,12,0,1,Water Damage,4,1313,363.85,28,Manual Review
+521,Laptop,14,12,1,1,Electrical Failure,0,2929,2650.57,429,Manual Review
+522,TV,56,36,1,1,Battery Failure,3,224,33.98,1676,Manual Review
+523,Camera,9,36,1,0,Screen Damage,3,1094,1047.91,265,Manual Review
+524,Washing Machine,40,24,1,1,Water Damage,0,1606,1390.86,1190,Manual Review
+525,Camera,42,12,1,1,Water Damage,1,1635,255.76,1258,Manual Review
+526,Tablet,6,36,1,1,Manufacturing Defect,1,915,823.2,185,Valid
+527,Laptop,39,36,1,0,Unknown,2,811,432.27,1164,Manual Review
+528,Camera,10,12,1,1,Battery Failure,2,362,215.57,303,Valid
+529,TV,14,12,0,0,Screen Damage,3,319,72.79,422,Manual Review
+530,Smartphone,36,36,1,1,Electrical Failure,2,312,265.56,1074,Valid
+531,Tablet,56,12,1,1,Software Failure,3,537,318.75,1676,Manual Review
+532,Laptop,2,12,1,1,Battery Failure,2,2116,1581.58,52,Valid
+533,Smartphone,46,24,0,0,Water Damage,1,464,341.21,1387,Invalid
+534,Laptop,58,12,0,1,Unknown,3,2598,1600.7,1750,Invalid
+535,Refrigerator,60,36,0,1,Screen Damage,1,1724,1209.93,1791,Manual Review
+536,Headphones,57,36,0,0,Physical Damage,4,48,26.19,1700,Invalid
+537,Smartphone,40,24,1,1,Electrical Failure,0,450,52.96,1210,Manual Review
+538,Headphones,54,24,0,0,Manufacturing Defect,4,81,84.91,1615,Manual Review
+539,Camera,9,24,1,0,Physical Damage,0,1579,1291.53,278,Manual Review
+540,TV,60,12,0,0,Water Damage,2,1926,962.38,1810,Invalid
+541,TV,29,12,0,0,Unknown,4,1090,749.28,870,Invalid
+542,Refrigerator,44,36,1,0,Physical Damage,2,1756,724.91,1318,Manual Review
+543,Refrigerator,22,36,1,1,Manufacturing Defect,1,708,150.52,657,Valid
+544,Washing Machine,58,24,1,0,Physical Damage,3,1461,300.33,1739,Invalid
+545,TV,56,36,1,1,Physical Damage,3,1856,1336.91,1679,Invalid
+546,Headphones,15,24,1,1,Manufacturing Defect,2,475,393.91,459,Valid
+547,TV,56,12,0,0,Water Damage,4,1250,665.24,1679,Invalid
+548,Laptop,22,36,1,0,Electrical Failure,2,762,458.36,655,Manual Review
+549,Washing Machine,6,36,1,1,Battery Failure,1,757,526.39,179,Valid
+550,Laptop,9,24,1,1,Software Failure,0,2806,921.66,275,Valid
+551,Refrigerator,48,12,0,0,Physical Damage,4,1805,708.89,1445,Invalid
+552,TV,15,36,1,1,Manufacturing Defect,0,441,124.87,441,Valid
+553,Headphones,28,36,0,0,Water Damage,0,142,27.29,848,Manual Review
+554,Camera,12,24,0,1,Unknown,4,704,313.9,355,Manual Review
+555,Headphones,54,12,1,1,Physical Damage,2,415,437.79,1625,Manual Review
+556,Tablet,48,36,0,0,Water Damage,2,999,874.83,1430,Invalid
+557,Camera,16,24,1,1,Battery Failure,1,2457,530.01,476,Valid
+558,Headphones,44,36,1,1,Physical Damage,4,309,173.37,1311,Invalid
+559,Laptop,14,12,0,1,Manufacturing Defect,4,2117,873.41,419,Manual Review
+560,Camera,4,12,1,0,Manufacturing Defect,0,2008,1427.05,110,Manual Review
+561,Tablet,19,24,0,1,Unknown,1,301,122.41,573,Manual Review
+562,Headphones,14,24,1,1,Manufacturing Defect,1,394,326.14,412,Valid
+563,Headphones,18,24,0,1,Water Damage,2,154,113.84,537,Manual Review
+564,Washing Machine,54,36,1,1,Battery Failure,3,810,197.37,1623,Manual Review
+565,Washing Machine,31,24,1,1,Unknown,2,1625,892.15,927,Invalid
+566,Refrigerator,54,36,1,0,Unknown,1,1221,477.92,1614,Invalid
+567,Refrigerator,15,12,1,1,Water Damage,1,621,512.51,447,Manual Review
+568,Laptop,56,12,0,1,Manufacturing Defect,1,599,123.34,1682,Manual Review
+569,Smartphone,40,12,0,1,Electrical Failure,3,147,154.18,1197,Manual Review
+570,Camera,2,36,1,1,Software Failure,1,224,191.34,59,Valid
+571,Headphones,5,12,1,1,Software Failure,0,89,68.09,144,Valid
+572,Laptop,42,36,0,0,Water Damage,3,667,149.0,1263,Invalid
+573,Refrigerator,30,24,0,1,Battery Failure,1,2340,252.39,894,Manual Review
+574,Camera,51,36,0,0,Water Damage,2,1939,1131.71,1538,Invalid
+575,Refrigerator,24,36,1,1,Screen Damage,3,950,1040.66,723,Manual Review
+576,Refrigerator,24,36,1,1,Manufacturing Defect,2,2207,1185.34,723,Valid
+577,Refrigerator,4,12,1,1,Electrical Failure,0,1878,457.39,110,Valid
+578,Smartphone,51,24,1,1,Water Damage,4,810,353.24,1540,Invalid
+579,Tablet,31,36,1,1,Battery Failure,0,817,634.24,931,Valid
+580,Headphones,58,36,1,0,Battery Failure,0,375,389.18,1745,Manual Review
+581,Refrigerator,42,24,0,0,Unknown,0,1888,1486.24,1269,Manual Review
+582,Refrigerator,3,12,1,1,Software Failure,2,865,602.5,95,Valid
+583,Laptop,15,36,1,1,Software Failure,0,2837,2290.56,457,Valid
+584,Laptop,3,12,1,1,Battery Failure,1,925,615.25,82,Valid
+585,TV,8,12,1,1,Battery Failure,1,2375,2114.5,249,Valid
+586,Tablet,48,12,0,0,Unknown,4,777,223.47,1430,Invalid
+587,Laptop,29,12,0,0,Physical Damage,1,2965,3093.91,865,Manual Review
+588,Headphones,53,24,0,1,Physical Damage,1,439,263.32,1599,Invalid
+589,Refrigerator,60,12,0,1,Manufacturing Defect,4,1217,1194.44,1799,Manual Review
+590,Headphones,25,36,1,1,Software Failure,0,91,93.57,756,Manual Review
+591,TV,59,36,0,0,Unknown,2,2000,1277.64,1763,Invalid
+592,Laptop,41,12,1,0,Physical Damage,2,1198,915.62,1239,Invalid
+593,Smartphone,32,12,0,1,Unknown,1,1013,875.27,967,Manual Review
+594,TV,32,24,0,0,Manufacturing Defect,2,229,144.79,951,Manual Review
+595,TV,60,36,1,1,Manufacturing Defect,4,654,370.31,1798,Manual Review
+596,Headphones,60,36,1,1,Physical Damage,3,495,186.98,1807,Invalid
+597,Washing Machine,35,36,1,0,Unknown,3,1469,1360.24,1044,Manual Review
+598,Smartphone,48,12,0,0,Battery Failure,4,1114,232.96,1450,Manual Review
+599,Smartphone,40,24,0,0,Unknown,0,858,101.39,1210,Manual Review
+600,Washing Machine,19,12,0,0,Water Damage,4,1244,581.39,574,Manual Review
+601,Tablet,31,36,1,1,Battery Failure,1,933,235.42,923,Valid
+602,Washing Machine,52,24,0,0,Physical Damage,2,753,504.33,1570,Invalid
+603,Laptop,4,12,1,1,Software Failure,0,843,484.68,126,Valid
+604,Camera,31,36,1,1,Manufacturing Defect,2,238,157.62,922,Valid
+605,Smartphone,37,24,0,0,Water Damage,3,943,530.87,1120,Invalid
+606,Camera,38,24,1,1,Physical Damage,1,861,595.25,1148,Invalid
+607,Smartphone,50,36,1,1,Software Failure,3,901,673.25,1498,Manual Review
+608,Refrigerator,60,24,0,0,Unknown,1,1549,1219.02,1794,Invalid
+609,Tablet,29,24,0,0,Unknown,1,773,93.36,863,Invalid
+610,Refrigerator,10,12,1,1,Electrical Failure,0,844,487.2,301,Valid
+611,Camera,38,24,0,1,Manufacturing Defect,4,836,847.3,1138,Manual Review
+612,TV,18,36,0,1,Manufacturing Defect,4,635,430.58,550,Manual Review
+613,Camera,6,24,1,1,Software Failure,0,1409,1040.47,172,Valid
+614,Headphones,35,36,0,0,Unknown,4,226,124.3,1059,Manual Review
+615,Headphones,37,36,0,0,Physical Damage,1,225,136.56,1107,Invalid
+616,Smartphone,40,24,0,0,Unknown,1,110,33.32,1209,Invalid
+617,TV,5,36,1,1,Manufacturing Defect,1,1611,1063.76,157,Valid
+618,Smartphone,19,24,0,1,Manufacturing Defect,4,1180,154.93,562,Manual Review
+619,Tablet,58,12,1,1,Physical Damage,4,1074,702.27,1736,Invalid
+620,Refrigerator,54,36,0,0,Physical Damage,1,1723,768.52,1623,Invalid
+621,Camera,7,12,1,1,Battery Failure,0,610,512.36,218,Valid
+622,TV,10,12,1,1,Software Failure,1,2310,837.01,302,Valid
+623,Laptop,12,24,1,1,Software Failure,1,1615,1027.31,355,Valid
+624,Smartphone,39,24,0,0,Water Damage,3,1233,627.62,1178,Invalid
+625,Smartphone,19,24,1,1,Software Failure,0,211,82.01,573,Valid
+626,Headphones,25,24,0,1,Water Damage,4,327,59.06,751,Invalid
+627,Washing Machine,20,24,1,1,Electrical Failure,1,1335,780.1,593,Valid
+628,Washing Machine,20,12,1,0,Physical Damage,4,1783,989.81,590,Invalid
+629,Washing Machine,27,24,1,0,Software Failure,1,1339,437.7,808,Manual Review
+630,Refrigerator,13,12,1,1,Unknown,1,1246,665.39,397,Invalid
+631,Tablet,31,24,0,1,Unknown,4,1054,275.67,935,Invalid
+632,Laptop,26,24,0,1,Water Damage,4,1763,306.74,771,Invalid
+633,Smartphone,48,24,0,1,Electrical Failure,1,652,652.59,1443,Manual Review
+634,TV,7,24,0,0,Physical Damage,4,2205,2236.82,209,Manual Review
+635,Washing Machine,9,24,1,1,Battery Failure,0,953,550.54,260,Valid
+636,Refrigerator,39,24,0,0,Physical Damage,1,793,210.52,1165,Manual Review
+637,Washing Machine,45,12,0,1,Water Damage,4,1485,301.47,1356,Manual Review
+638,Headphones,52,36,0,0,Unknown,2,127,108.82,1558,Invalid
+639,Washing Machine,16,36,0,0,Manufacturing Defect,1,836,865.67,482,Manual Review
+640,Headphones,20,24,1,1,Manufacturing Defect,0,39,11.88,594,Valid
+641,Refrigerator,32,36,0,0,Physical Damage,0,1728,1529.51,954,Manual Review
+642,Laptop,12,24,1,1,Manufacturing Defect,2,1080,152.53,362,Valid
+643,Refrigerator,4,12,1,1,Electrical Failure,0,2444,1017.94,130,Valid
+644,TV,16,36,1,1,Electrical Failure,2,429,305.12,477,Valid
+645,Smartphone,21,12,1,0,Physical Damage,1,1296,1285.05,626,Manual Review
+646,Washing Machine,19,36,1,1,Manufacturing Defect,1,1332,613.1,577,Valid
+647,Camera,17,24,0,0,Battery Failure,0,1321,1377.07,513,Manual Review
+648,Tablet,56,24,0,0,Physical Damage,1,229,70.83,1680,Invalid
+649,Refrigerator,45,36,0,0,Unknown,3,1235,868.05,1341,Invalid
+650,Refrigerator,45,24,0,1,Unknown,3,931,550.62,1355,Invalid
+651,TV,56,24,1,0,Software Failure,3,2118,1300.43,1684,Manual Review
+652,Washing Machine,27,36,1,1,Software Failure,0,914,366.67,817,Valid
+653,Camera,10,36,1,1,Software Failure,0,717,359.81,308,Valid
+654,Headphones,54,12,0,1,Software Failure,2,346,283.65,1612,Manual Review
+655,Tablet,58,36,0,0,Unknown,3,582,316.77,1742,Invalid
+656,Washing Machine,42,36,1,1,Battery Failure,0,1060,976.98,1252,Manual Review
+657,Tablet,50,12,0,0,Physical Damage,3,541,133.34,1505,Invalid
+658,TV,57,24,0,0,Water Damage,1,468,125.72,1720,Invalid
+659,Laptop,20,36,0,0,Software Failure,1,1086,774.45,595,Manual Review
+660,TV,22,24,1,1,Manufacturing Defect,2,329,57.51,662,Valid
+661,Refrigerator,3,12,1,1,Battery Failure,1,760,154.68,93,Valid
+662,Tablet,13,36,1,1,Screen Damage,3,1101,594.65,384,Manual Review
+663,Refrigerator,12,36,1,1,Manufacturing Defect,2,1780,1304.05,368,Valid
+664,Headphones,17,12,1,1,Unknown,1,198,100.16,520,Manual Review
+665,Camera,33,36,0,1,Unknown,4,2380,1566.77,999,Manual Review
+666,Washing Machine,19,24,1,1,Software Failure,0,947,748.05,565,Valid
+667,Washing Machine,22,12,0,0,Physical Damage,1,1412,672.28,656,Invalid
+668,Tablet,15,24,1,1,Manufacturing Defect,1,119,58.03,446,Valid
+669,Washing Machine,1,24,1,1,Electrical Failure,1,1094,791.33,37,Valid
+670,Washing Machine,16,12,1,0,Physical Damage,3,1472,1014.92,484,Invalid
+671,Refrigerator,52,36,0,0,Battery Failure,1,1711,373.38,1565,Manual Review
+672,Headphones,23,36,0,0,Software Failure,2,179,125.42,694,Manual Review
+673,Headphones,49,24,0,1,Unknown,2,420,88.54,1480,Invalid
+674,Smartphone,26,36,1,1,Electrical Failure,2,386,261.33,790,Valid
+675,Headphones,11,36,1,1,Manufacturing Defect,1,293,184.91,339,Valid
+676,Smartphone,22,12,1,1,Water Damage,2,221,46.73,660,Manual Review
+677,Laptop,9,12,1,1,Battery Failure,1,2158,856.31,277,Valid
+678,TV,9,24,1,1,Electrical Failure,1,246,76.07,271,Valid
+679,Headphones,19,12,1,1,Water Damage,1,289,53.27,580,Invalid
+680,Laptop,2,36,1,0,Unknown,4,2531,454.98,68,Manual Review
+681,Laptop,54,24,0,1,Water Damage,0,785,737.95,1616,Manual Review
+682,TV,55,36,0,1,Physical Damage,3,1402,1438.78,1652,Manual Review
+683,Tablet,40,12,0,1,Manufacturing Defect,1,1029,625.19,1195,Manual Review
+684,Tablet,53,12,0,0,Unknown,4,246,40.17,1590,Invalid
+685,Smartphone,11,36,1,1,Manufacturing Defect,1,1137,480.62,336,Valid
+686,Camera,52,12,1,0,Unknown,1,1579,503.21,1568,Invalid
+687,Tablet,60,12,1,0,Physical Damage,1,977,315.85,1798,Invalid
+688,Smartphone,45,24,1,0,Physical Damage,1,1251,920.43,1350,Manual Review
+689,TV,48,36,1,1,Water Damage,0,993,830.66,1433,Manual Review
+690,Washing Machine,53,12,1,0,Unknown,1,818,396.72,1589,Invalid
+691,Washing Machine,40,12,1,0,Electrical Failure,1,1125,715.57,1206,Manual Review
+692,Headphones,21,36,0,0,Software Failure,4,450,399.63,638,Manual Review
+693,Laptop,59,12,0,1,Unknown,3,2016,522.15,1770,Invalid
+694,Laptop,56,36,1,0,Unknown,2,2981,1899.43,1680,Invalid
+695,Headphones,45,36,1,1,Water Damage,3,52,32.5,1354,Invalid
+696,Washing Machine,1,24,1,1,Manufacturing Defect,1,929,270.86,27,Valid
+697,Refrigerator,18,36,1,1,Software Failure,1,1828,854.04,536,Valid
+698,TV,29,24,0,1,Battery Failure,4,725,249.73,875,Manual Review
+699,Refrigerator,13,36,1,1,Water Damage,0,984,449.28,399,Manual Review
+700,Refrigerator,8,36,1,1,Battery Failure,0,2013,802.3,240,Valid
+701,Refrigerator,56,12,1,0,Physical Damage,3,578,466.47,1677,Invalid
+702,Headphones,59,24,0,1,Physical Damage,2,387,205.66,1778,Invalid
+703,Smartphone,48,12,0,0,Electrical Failure,1,1340,1055.17,1443,Manual Review
+704,Washing Machine,52,36,1,0,Software Failure,4,1429,1091.59,1552,Manual Review
+705,Camera,12,24,0,0,Unknown,2,2354,602.41,360,Manual Review
+706,Smartphone,39,36,0,1,Physical Damage,1,707,311.59,1168,Invalid
+707,Smartphone,44,12,0,1,Physical Damage,4,679,558.3,1318,Invalid
+708,Smartphone,39,12,0,1,Software Failure,1,875,914.6,1172,Manual Review
+709,Tablet,25,36,1,1,Battery Failure,0,470,359.59,759,Valid
+710,TV,4,24,1,1,Battery Failure,1,227,195.01,120,Valid
+711,Smartphone,22,12,0,1,Physical Damage,1,231,71.72,661,Invalid
+712,Laptop,11,12,1,1,Electrical Failure,0,2950,1740.92,338,Valid
+713,Refrigerator,42,12,1,1,Water Damage,4,1890,948.28,1257,Invalid
+714,Laptop,8,36,1,1,Manufacturing Defect,2,2370,620.29,247,Valid
+715,Laptop,56,24,1,0,Battery Failure,0,1082,734.99,1687,Manual Review
+716,Smartphone,24,12,0,0,Water Damage,4,492,88.07,728,Invalid
+717,Headphones,40,36,0,1,Unknown,1,462,142.12,1208,Invalid
+718,Tablet,23,24,1,1,Battery Failure,1,1162,948.12,682,Valid
+719,TV,60,24,0,1,Unknown,0,1657,173.51,1799,Manual Review
+720,Headphones,21,24,0,1,Manufacturing Defect,0,158,105.33,626,Manual Review
+721,Smartphone,16,24,1,1,Manufacturing Defect,2,892,789.27,478,Valid
+722,Headphones,18,24,1,1,Manufacturing Defect,0,250,51.79,538,Valid
+723,Tablet,9,24,1,1,Software Failure,0,170,100.52,279,Valid
+724,Laptop,44,24,1,1,Unknown,4,2227,635.49,1317,Invalid
+725,Laptop,35,36,1,1,Software Failure,0,1819,1470.47,1051,Valid
+726,TV,6,12,1,1,Battery Failure,2,2372,1980.13,189,Valid
+727,Refrigerator,52,24,0,1,Physical Damage,2,1809,690.86,1558,Manual Review
+728,Washing Machine,9,24,1,1,Electrical Failure,0,607,311.9,267,Valid
+729,Laptop,15,24,0,1,Software Failure,1,2909,1189.76,443,Manual Review
+730,Laptop,26,36,1,1,Battery Failure,1,1167,578.57,780,Valid
+731,TV,8,12,0,1,Unknown,2,906,563.75,232,Manual Review
+732,Smartphone,32,12,0,0,Physical Damage,1,975,755.28,952,Invalid
+733,Headphones,30,36,1,1,Unknown,1,159,107.91,905,Manual Review
+734,Washing Machine,42,12,1,0,Water Damage,2,1623,1359.76,1269,Invalid
+735,TV,30,12,0,0,Physical Damage,3,2455,591.13,891,Invalid
+736,Camera,17,12,0,0,Physical Damage,3,621,352.06,509,Manual Review
+737,Refrigerator,1,36,1,1,Software Failure,1,1047,166.57,31,Valid
+738,Washing Machine,44,24,0,1,Unknown,1,1115,199.79,1315,Invalid
+739,Tablet,55,36,0,1,Water Damage,0,982,740.63,1644,Manual Review
+740,Tablet,56,36,0,1,Water Damage,4,441,411.51,1690,Manual Review
+741,Washing Machine,20,12,1,1,Software Failure,3,930,409.42,603,Manual Review
+742,Tablet,31,12,0,0,Unknown,4,116,33.2,924,Invalid
+743,Tablet,53,24,0,1,Physical Damage,1,506,507.65,1586,Manual Review
+744,Camera,1,12,1,1,Electrical Failure,2,1374,156.24,33,Valid
+745,Washing Machine,54,24,0,1,Unknown,2,441,231.49,1624,Invalid
+746,Laptop,34,12,0,1,Physical Damage,3,2238,1578.97,1020,Manual Review
+747,Refrigerator,28,36,1,1,Battery Failure,1,2323,2262.06,830,Manual Review
+748,Laptop,34,12,1,1,Software Failure,3,1750,773.74,1023,Manual Review
+749,Tablet,4,36,1,1,Manufacturing Defect,0,199,141.58,123,Valid
+750,Washing Machine,36,24,1,0,Water Damage,4,1058,898.24,1084,Invalid
+751,TV,37,36,1,1,Water Damage,1,1701,1137.78,1101,Invalid
+752,Washing Machine,5,12,0,1,Software Failure,1,943,850.76,150,Manual Review
+753,Washing Machine,8,12,1,1,Software Failure,1,1363,427.13,232,Valid
+754,Tablet,31,24,1,1,Unknown,1,678,129.64,923,Invalid
+755,TV,50,24,0,0,Physical Damage,2,765,329.1,1506,Invalid
+756,Refrigerator,11,12,1,1,Electrical Failure,0,1640,970.13,322,Valid
+757,Washing Machine,37,24,1,0,Software Failure,0,1589,615.11,1105,Manual Review
+758,TV,8,12,1,1,Electrical Failure,0,1329,333.29,233,Valid
+759,Laptop,34,24,0,1,Physical Damage,3,1239,369.12,1019,Invalid
+760,Washing Machine,20,36,1,1,Battery Failure,2,1443,353.4,593,Valid
+761,Tablet,2,24,0,0,Physical Damage,2,320,321.18,53,Manual Review
+762,Laptop,5,24,1,1,Software Failure,2,2896,647.03,152,Valid
+763,Headphones,12,12,1,1,Electrical Failure,0,169,62.31,367,Valid
+764,Laptop,52,12,1,1,Water Damage,2,2249,1129.25,1550,Invalid
+765,Laptop,24,12,0,0,Manufacturing Defect,2,2587,2385.29,721,Manual Review
+766,TV,22,36,1,1,Unknown,4,360,387.43,664,Manual Review
+767,TV,38,36,0,0,Manufacturing Defect,4,708,245.73,1137,Manual Review
+768,TV,23,36,1,1,Electrical Failure,0,620,252.24,698,Valid
+769,Refrigerator,5,24,1,1,Software Failure,0,773,591.67,142,Valid
+770,Washing Machine,6,24,1,1,Manufacturing Defect,2,1672,1022.06,180,Valid
+771,Refrigerator,32,12,1,0,Unknown,1,645,498.76,958,Invalid
+772,Laptop,14,12,0,1,Battery Failure,4,1846,1731.98,428,Manual Review
+773,TV,50,24,1,0,Unknown,4,1863,754.98,1507,Invalid
+774,Smartphone,54,36,1,1,Manufacturing Defect,3,1083,359.09,1623,Manual Review
+775,Washing Machine,6,12,1,1,Battery Failure,0,1685,174.06,177,Valid
+776,Headphones,32,12,1,0,Physical Damage,4,144,17.49,950,Invalid
+777,Tablet,51,36,1,1,Water Damage,2,480,367.6,1529,Invalid
+778,Refrigerator,8,36,1,1,Electrical Failure,1,1304,358.99,234,Valid
+779,Laptop,33,12,0,0,Physical Damage,3,2692,597.4,998,Invalid
+780,Headphones,12,12,1,1,Software Failure,1,498,130.73,360,Valid
+781,Washing Machine,13,24,1,1,Software Failure,2,494,172.92,390,Valid
+782,Tablet,12,24,1,1,Electrical Failure,0,861,173.53,358,Valid
+783,Laptop,49,12,1,0,Water Damage,1,2395,383.29,1463,Invalid
+784,TV,20,36,1,1,Software Failure,2,1729,778.88,606,Valid
+785,Headphones,13,36,1,1,Screen Damage,2,233,93.71,393,Manual Review
+786,Camera,32,36,1,1,Battery Failure,2,1440,422.81,954,Valid
+787,Laptop,41,24,0,1,Software Failure,2,899,810.87,1232,Manual Review
+788,Smartphone,5,24,1,1,Battery Failure,2,613,452.89,143,Valid
+789,Refrigerator,22,24,1,1,Manufacturing Defect,1,661,243.93,658,Valid
+790,Smartphone,22,24,1,1,Battery Failure,0,125,83.29,650,Valid
+791,Refrigerator,22,36,1,1,Manufacturing Defect,1,2180,493.83,650,Valid
+792,Smartphone,16,24,1,1,Manufacturing Defect,0,920,453.93,488,Valid
+793,TV,48,36,1,0,Physical Damage,3,356,190.84,1434,Manual Review
+794,Headphones,1,12,1,1,Electrical Failure,1,69,42.49,22,Valid
+795,Headphones,38,36,1,0,Physical Damage,2,264,232.64,1146,Invalid
+796,Smartphone,1,12,1,1,Electrical Failure,0,1305,468.52,25,Valid
+797,Smartphone,7,12,1,1,Manufacturing Defect,0,518,176.71,206,Valid
+798,Camera,52,24,0,0,Software Failure,0,1990,1784.08,1560,Manual Review
+799,Laptop,10,12,1,0,Unknown,0,2162,758.81,295,Manual Review
+800,Smartphone,3,12,1,1,Battery Failure,2,964,556.35,92,Valid
+801,Tablet,9,36,1,1,Battery Failure,0,759,578.95,272,Valid
+802,Refrigerator,3,24,1,1,Software Failure,0,1911,497.89,98,Valid
+803,TV,14,36,1,1,Battery Failure,1,804,587.66,429,Valid
+804,Tablet,22,24,1,0,Water Damage,0,647,689.05,653,Manual Review
+805,Laptop,25,36,1,1,Electrical Failure,1,1588,1163.78,747,Valid
+806,TV,5,12,1,0,Software Failure,0,1931,2112.41,150,Manual Review
+807,Smartphone,48,12,0,0,Water Damage,4,1085,605.92,1448,Invalid
+808,Washing Machine,9,12,1,1,Battery Failure,1,1670,815.51,277,Valid
+809,Refrigerator,5,24,1,1,Software Failure,0,1420,858.54,157,Valid
+810,Smartphone,11,24,1,1,Battery Failure,1,1264,551.98,337,Valid
+811,Refrigerator,59,36,0,0,Unknown,3,896,825.26,1770,Manual Review
+812,Tablet,51,24,0,0,Unknown,4,442,118.76,1531,Invalid
+813,Camera,3,12,1,1,Manufacturing Defect,0,1446,1296.69,83,Valid
+814,Headphones,17,24,1,1,Manufacturing Defect,1,287,79.57,519,Valid
+815,Smartphone,3,24,1,1,Software Failure,0,1384,302.13,99,Valid
+816,Washing Machine,13,36,1,1,Electrical Failure,1,1250,630.13,400,Valid
+817,Smartphone,4,12,1,1,Battery Failure,0,610,77.14,111,Valid
+818,Smartphone,1,24,1,1,Software Failure,2,729,133.52,36,Valid
+819,Headphones,4,36,1,1,Manufacturing Defect,2,234,157.55,130,Manual Review
+820,Washing Machine,4,24,1,1,Manufacturing Defect,0,931,424.34,118,Valid
+821,Laptop,8,12,1,1,Battery Failure,1,2284,1616.15,241,Valid
+822,Laptop,2,36,1,1,Battery Failure,1,2302,1324.19,55,Valid
+823,Camera,47,36,0,1,Physical Damage,3,1841,217.07,1408,Manual Review
+824,Laptop,9,36,1,1,Electrical Failure,0,1277,439.68,265,Valid
+825,Smartphone,49,12,1,1,Unknown,1,1090,740.39,1479,Invalid
+826,TV,48,24,0,0,Software Failure,1,346,305.29,1450,Manual Review
+827,Refrigerator,42,24,0,0,Unknown,3,1592,1688.91,1256,Manual Review
+828,TV,51,24,0,1,Unknown,1,1278,381.62,1522,Invalid
+829,Refrigerator,16,12,1,1,Electrical Failure,0,1523,592.99,490,Manual Review
+830,Tablet,3,24,1,1,Battery Failure,1,735,642.51,92,Valid
+831,Headphones,45,36,1,0,Unknown,1,421,52.74,1353,Invalid
+832,Smartphone,24,12,0,0,Water Damage,0,125,69.42,714,Manual Review
+833,Refrigerator,1,24,1,0,Manufacturing Defect,3,931,297.75,40,Manual Review
+834,Refrigerator,17,12,0,0,Physical Damage,4,1783,796.88,504,Invalid
+835,Refrigerator,17,24,0,0,Water Damage,4,1640,1595.45,516,Manual Review
+836,Refrigerator,4,12,1,1,Battery Failure,2,880,613.8,125,Valid
+837,Smartphone,48,24,1,0,Physical Damage,1,294,229.61,1431,Invalid
+838,Refrigerator,18,24,1,1,Battery Failure,2,2387,1744.04,531,Valid
+839,Camera,12,24,1,1,Electrical Failure,2,1404,661.3,353,Valid
+840,Headphones,59,12,0,0,Water Damage,3,349,94.41,1770,Manual Review
+841,TV,47,36,1,1,Water Damage,3,2443,264.97,1400,Invalid
+842,Headphones,2,12,1,1,Manufacturing Defect,0,179,22.58,57,Valid
+843,Washing Machine,27,24,1,1,Physical Damage,4,363,394.24,818,Manual Review
+844,Washing Machine,57,36,1,1,Water Damage,2,1662,696.01,1711,Manual Review
+845,Tablet,28,36,1,1,Electrical Failure,2,303,271.58,833,Manual Review
+846,Washing Machine,12,24,1,1,Electrical Failure,1,549,306.77,367,Valid
+847,Camera,51,12,0,0,Physical Damage,1,2376,1194.33,1523,Invalid
+848,Headphones,8,24,1,1,Electrical Failure,2,278,167.19,238,Valid
+849,Smartphone,53,36,0,0,Unknown,4,285,193.26,1583,Invalid
+850,Smartphone,31,24,0,0,Software Failure,0,665,369.61,920,Manual Review
+851,Laptop,20,12,1,0,Unknown,3,649,336.87,602,Invalid
+852,Tablet,51,36,1,0,Physical Damage,4,214,164.37,1529,Invalid
+853,Headphones,4,12,1,1,Battery Failure,2,331,215.58,129,Valid
+854,Smartphone,48,36,0,0,Physical Damage,3,784,465.27,1444,Invalid
+855,Camera,60,36,0,0,Unknown,2,2151,755.21,1796,Invalid
+856,Headphones,7,24,0,1,Screen Damage,1,274,257.42,217,Manual Review
+857,Headphones,1,24,1,1,Manufacturing Defect,1,143,60.56,27,Valid
+858,Smartphone,36,12,0,1,Unknown,1,1380,514.75,1073,Invalid
+859,Refrigerator,15,12,0,1,Water Damage,1,1288,1108.18,460,Invalid
+860,Refrigerator,45,12,1,1,Electrical Failure,0,584,72.19,1347,Manual Review
+861,Camera,22,24,1,0,Battery Failure,2,1454,334.71,650,Manual Review
+862,Headphones,51,24,0,1,Water Damage,2,276,112.35,1530,Invalid
+863,Camera,57,12,0,1,Water Damage,4,1197,1006.13,1701,Invalid
+864,Headphones,47,36,0,0,Physical Damage,4,427,56.99,1412,Invalid
+865,TV,50,36,0,1,Water Damage,1,384,196.12,1506,Invalid
+866,Refrigerator,5,24,1,1,Battery Failure,2,2189,1605.57,155,Valid
+867,TV,37,24,0,1,Manufacturing Defect,2,1961,1847.85,1100,Manual Review
+868,TV,48,12,0,0,Unknown,2,1424,935.15,1433,Invalid
+869,Laptop,8,24,0,1,Physical Damage,4,2405,1277.84,231,Manual Review
+870,Washing Machine,4,12,1,1,Electrical Failure,0,707,154.04,111,Valid
+871,Washing Machine,47,24,0,0,Water Damage,1,1723,1444.38,1409,Invalid
+872,Tablet,48,24,0,1,Unknown,3,790,359.59,1430,Manual Review
+873,TV,58,36,1,0,Physical Damage,4,613,386.18,1738,Invalid
+874,Washing Machine,41,12,1,1,Screen Damage,2,336,197.17,1232,Manual Review
+875,TV,25,36,1,1,Software Failure,1,1199,261.45,740,Valid
+876,Camera,19,12,1,1,Unknown,0,1269,1099.98,565,Manual Review
+877,Washing Machine,8,36,1,1,Software Failure,1,1662,1417.53,243,Valid
+878,Laptop,52,36,1,1,Unknown,2,2491,2331.0,1563,Manual Review
+879,Tablet,6,12,1,1,Software Failure,0,520,350.24,185,Valid
+880,Washing Machine,17,24,1,1,Software Failure,0,1541,1255.15,504,Valid
+881,TV,14,24,1,1,Manufacturing Defect,0,2317,2150.09,428,Manual Review
+882,Laptop,53,12,0,1,Screen Damage,1,2116,286.94,1596,Manual Review
+883,Camera,5,36,0,0,Software Failure,4,1589,742.99,144,Manual Review
+884,Smartphone,56,36,1,0,Physical Damage,3,249,181.08,1680,Invalid
+885,Washing Machine,21,36,1,1,Electrical Failure,1,567,401.74,636,Valid
+886,TV,23,36,1,0,Physical Damage,1,1396,885.6,700,Manual Review
+887,Laptop,24,24,1,1,Software Failure,1,575,195.62,713,Valid
+888,Tablet,24,24,1,1,Screen Damage,3,1136,522.64,711,Manual Review
+889,Refrigerator,39,36,0,1,Electrical Failure,2,1711,1708.92,1161,Manual Review
+890,Headphones,35,12,0,0,Battery Failure,1,244,262.4,1057,Manual Review
+891,Laptop,20,36,1,0,Screen Damage,0,2597,611.35,605,Manual Review
+892,Headphones,36,24,0,1,Battery Failure,4,327,137.24,1082,Manual Review
+893,Refrigerator,56,24,0,1,Physical Damage,4,2460,853.73,1675,Manual Review
+894,Laptop,40,24,0,0,Unknown,4,908,700.27,1207,Invalid
+895,Tablet,43,36,0,0,Water Damage,3,1083,359.59,1298,Manual Review
+896,Smartphone,51,36,0,0,Battery Failure,0,695,278.46,1522,Manual Review
+897,Headphones,4,12,1,1,Electrical Failure,2,103,76.7,111,Valid
+898,Tablet,44,36,0,1,Unknown,2,276,94.04,1324,Invalid
+899,Laptop,38,36,0,0,Unknown,1,1033,419.51,1140,Invalid
+900,Smartphone,56,12,0,0,Screen Damage,0,359,345.65,1689,Manual Review
+901,Washing Machine,5,12,1,1,Manufacturing Defect,2,1680,1139.41,147,Valid
+902,Smartphone,20,24,1,1,Electrical Failure,1,312,175.45,596,Valid
+903,Refrigerator,12,12,1,1,Battery Failure,1,2483,693.73,356,Valid
+904,Washing Machine,30,24,1,0,Unknown,2,586,75.34,890,Invalid
+905,Smartphone,58,24,1,1,Physical Damage,0,516,428.09,1746,Manual Review
+906,Washing Machine,57,24,1,0,Water Damage,3,1044,914.07,1706,Invalid
+907,Smartphone,12,12,1,1,Software Failure,1,1173,607.85,355,Valid
+908,Washing Machine,10,24,1,1,Software Failure,1,992,637.97,291,Valid
+909,Laptop,49,12,1,0,Battery Failure,3,956,680.36,1467,Manual Review
+910,TV,59,24,0,0,Screen Damage,0,1927,2050.53,1762,Manual Review
+911,TV,41,12,1,0,Physical Damage,2,979,364.28,1235,Invalid
+912,Laptop,22,24,1,1,Software Failure,1,2867,1935.15,665,Valid
+913,Refrigerator,34,12,0,1,Unknown,2,1995,498.56,1013,Invalid
+914,Washing Machine,6,12,1,1,Manufacturing Defect,2,1689,691.23,178,Valid
+915,Headphones,2,12,1,0,Physical Damage,2,331,134.83,52,Manual Review
+916,Camera,26,24,0,0,Unknown,2,758,528.63,787,Invalid
+917,TV,54,24,0,0,Physical Damage,2,1524,1340.39,1622,Invalid
+918,Camera,10,36,1,1,Software Failure,2,605,464.01,309,Valid
+919,Camera,12,24,1,1,Battery Failure,1,372,122.8,352,Valid
+920,Smartphone,35,12,0,0,Unknown,2,457,348.4,1056,Invalid
+921,Camera,4,24,1,1,Software Failure,0,1530,363.37,129,Valid
+922,Camera,54,24,1,1,Physical Damage,1,2012,435.53,1610,Invalid
+923,Washing Machine,13,36,1,1,Manufacturing Defect,0,1654,466.95,389,Valid
+924,Laptop,15,36,0,1,Water Damage,0,1165,1137.99,445,Manual Review
+925,Camera,19,24,1,1,Manufacturing Defect,1,971,346.86,575,Valid
+926,Headphones,21,12,1,1,Battery Failure,1,63,44.63,623,Manual Review
+927,TV,20,24,1,1,Manufacturing Defect,1,1897,1534.5,608,Valid
+928,Laptop,58,36,1,1,Physical Damage,4,669,194.32,1733,Invalid
+929,Refrigerator,54,12,1,0,Unknown,1,1381,417.6,1622,Invalid
+930,Refrigerator,36,24,1,0,Physical Damage,2,925,132.57,1083,Invalid
+931,Smartphone,46,12,1,0,Unknown,1,1242,509.12,1390,Invalid
+932,Refrigerator,38,36,0,1,Water Damage,4,2259,1152.38,1145,Invalid
+933,Camera,45,24,0,0,Unknown,0,717,729.06,1353,Manual Review
+934,Headphones,11,12,1,1,Battery Failure,2,440,46.98,328,Valid
+935,Tablet,28,36,0,1,Physical Damage,2,312,98.86,841,Manual Review
+936,TV,31,12,0,1,Physical Damage,4,681,216.64,925,Invalid
+937,TV,52,12,0,0,Manufacturing Defect,3,2299,2327.53,1556,Manual Review
+938,Headphones,51,12,0,0,Unknown,2,213,141.17,1529,Invalid
+939,Washing Machine,34,24,1,0,Unknown,2,650,102.05,1029,Invalid
+940,Tablet,34,24,1,1,Physical Damage,1,638,304.7,1019,Manual Review
+941,Camera,35,24,0,0,Water Damage,2,971,714.74,1057,Invalid
+942,TV,24,24,1,1,Battery Failure,2,2389,1458.84,725,Valid
+943,Washing Machine,6,24,1,1,Battery Failure,1,1295,328.42,174,Valid
+944,Tablet,50,12,0,0,Physical Damage,4,417,55.02,1500,Invalid
+945,Refrigerator,40,36,0,0,Water Damage,1,2346,1526.6,1194,Invalid
+946,TV,13,24,0,1,Electrical Failure,1,1458,1255.62,383,Manual Review
+947,Smartphone,7,12,1,1,Electrical Failure,2,1126,803.61,213,Valid
+948,Laptop,16,36,1,1,Manufacturing Defect,2,1535,1197.66,489,Valid
+949,TV,55,36,0,0,Unknown,3,2430,1592.39,1645,Invalid
+950,Smartphone,20,12,1,1,Battery Failure,3,1047,950.05,601,Manual Review
+951,Smartphone,3,24,1,1,Electrical Failure,0,1445,870.77,98,Valid
+952,Refrigerator,3,36,0,0,Physical Damage,0,1305,1049.4,89,Manual Review
+953,Smartphone,48,12,0,1,Unknown,2,200,49.57,1431,Invalid
+954,Tablet,29,24,0,0,Physical Damage,1,403,200.32,866,Invalid
+955,Camera,3,36,1,1,Battery Failure,2,1503,1257.76,99,Valid
+956,Tablet,28,36,1,1,Electrical Failure,1,418,113.8,840,Valid
+957,Washing Machine,31,24,0,1,Physical Damage,4,467,81.16,933,Invalid
+958,Laptop,59,36,1,0,Water Damage,4,1632,887.92,1774,Invalid
+959,TV,4,24,1,1,Battery Failure,0,1086,750.3,118,Valid
+960,Tablet,8,12,1,1,Manufacturing Defect,1,272,136.99,235,Valid
+961,Washing Machine,7,12,1,1,Software Failure,0,1187,1031.06,220,Valid
+962,Camera,23,24,1,1,Software Failure,0,920,429.69,697,Manual Review
+963,Laptop,40,36,0,1,Water Damage,4,2988,2124.73,1210,Invalid
+964,Camera,52,24,1,1,Physical Damage,3,301,309.75,1561,Manual Review
+965,Laptop,34,36,1,1,Manufacturing Defect,1,643,456.85,1018,Valid
+966,Refrigerator,2,24,1,0,Water Damage,2,847,137.2,66,Manual Review
+967,Camera,53,36,0,0,Physical Damage,1,556,203.85,1581,Invalid
+968,Camera,29,12,1,1,Water Damage,1,1758,1922.99,876,Manual Review
+969,Washing Machine,8,12,1,1,Manufacturing Defect,2,1235,138.66,234,Valid
+970,Tablet,47,36,0,1,Electrical Failure,3,726,336.05,1419,Manual Review
+971,Washing Machine,6,24,1,0,Electrical Failure,4,903,960.06,181,Manual Review
+972,Smartphone,45,36,0,0,Physical Damage,4,1445,303.17,1352,Invalid
+973,TV,58,36,1,0,Manufacturing Defect,0,1955,730.42,1735,Manual Review
+974,Refrigerator,3,24,1,1,Electrical Failure,1,1410,954.17,95,Valid
+975,TV,42,12,0,0,Unknown,2,403,169.59,1263,Invalid
+976,TV,31,24,1,0,Electrical Failure,1,1233,1058.73,929,Manual Review
+977,TV,5,12,1,1,Software Failure,1,1303,890.0,159,Valid
+978,TV,8,36,1,0,Manufacturing Defect,0,1753,301.87,241,Manual Review
+979,Refrigerator,12,12,0,0,Water Damage,4,436,350.25,364,Manual Review
+980,Laptop,46,36,1,1,Unknown,3,1723,1500.1,1378,Invalid
+981,Laptop,20,24,1,1,Battery Failure,0,816,261.13,610,Valid
+982,Laptop,25,24,0,0,Manufacturing Defect,0,841,780.89,760,Manual Review
+983,Headphones,56,24,0,0,Water Damage,2,55,48.17,1670,Invalid
+984,Washing Machine,31,36,0,1,Physical Damage,1,866,848.45,925,Manual Review
+985,Laptop,49,12,0,1,Electrical Failure,3,463,174.94,1474,Manual Review
+986,Smartphone,31,36,1,1,Manufacturing Defect,1,640,673.31,920,Manual Review
+987,Camera,50,12,1,0,Water Damage,2,1442,691.71,1506,Invalid
+988,Tablet,40,24,0,0,Unknown,1,802,711.58,1194,Invalid
+989,Camera,26,36,1,1,Electrical Failure,0,766,388.84,772,Valid
+990,Washing Machine,38,36,0,1,Unknown,3,524,413.44,1130,Invalid
+991,Tablet,27,24,1,0,Water Damage,3,530,550.53,814,Manual Review
+992,Smartphone,18,24,1,0,Screen Damage,2,1443,809.47,543,Manual Review
+993,TV,13,36,0,0,Physical Damage,0,383,211.03,381,Manual Review
+994,Headphones,9,36,1,1,Screen Damage,0,257,208.45,262,Manual Review
+995,Laptop,58,24,0,0,Unknown,4,2195,709.72,1743,Invalid
+996,Washing Machine,1,12,1,0,Electrical Failure,2,318,57.58,22,Manual Review
+997,Tablet,60,36,0,0,Unknown,1,1080,885.75,1794,Invalid
+998,TV,31,12,1,1,Physical Damage,3,974,101.66,920,Invalid
+999,Smartphone,34,36,1,1,Electrical Failure,1,1417,1234.52,1011,Valid
+1000,Washing Machine,20,24,1,1,Software Failure,2,1213,991.95,605,Valid
+1001,Refrigerator,5,12,1,1,Manufacturing Defect,2,1876,563.38,151,Valid
+1002,Headphones,24,36,1,1,Manufacturing Defect,1,462,85.33,723,Valid
+1003,Camera,14,24,1,1,Electrical Failure,0,2126,245.57,427,Valid
+1004,Laptop,5,12,1,1,Software Failure,2,2012,600.82,145,Valid
+1005,Headphones,29,36,1,1,Electrical Failure,0,329,147.62,875,Valid
+1006,Washing Machine,25,24,0,0,Screen Damage,2,555,291.47,753,Manual Review
+1007,Laptop,59,12,0,1,Physical Damage,4,1482,342.39,1773,Invalid
+1008,TV,19,24,1,1,Battery Failure,0,2088,1274.36,574,Valid
+1009,Tablet,44,24,1,1,Physical Damage,1,689,298.84,1325,Invalid
+1010,Headphones,4,12,1,1,Battery Failure,0,203,23.72,127,Valid
+1011,Washing Machine,13,24,1,1,Manufacturing Defect,1,775,761.53,397,Manual Review
+1012,Refrigerator,32,36,1,1,Unknown,2,1052,970.26,968,Manual Review
+1013,TV,42,12,0,1,Physical Damage,1,2241,1025.6,1253,Invalid
+1014,Washing Machine,49,24,1,1,Water Damage,4,746,160.71,1465,Invalid
+1015,Laptop,6,24,1,1,Battery Failure,2,1893,1214.6,187,Valid
+1016,Washing Machine,20,24,1,0,Battery Failure,4,834,887.76,602,Manual Review
+1017,TV,41,36,1,1,Unknown,2,765,265.61,1236,Invalid
+1018,Washing Machine,48,24,0,0,Physical Damage,3,930,820.28,1447,Invalid
+1019,Refrigerator,8,24,1,1,Manufacturing Defect,1,2246,662.77,244,Valid
+1020,Laptop,60,12,0,1,Screen Damage,4,510,298.7,1806,Manual Review
+1021,Smartphone,34,12,0,0,Unknown,2,347,190.71,1025,Invalid
+1022,Camera,15,36,1,1,Manufacturing Defect,1,2340,1017.68,457,Valid
+1023,Tablet,37,24,0,0,Physical Damage,2,1139,314.09,1110,Invalid
+1024,Washing Machine,60,24,1,0,Electrical Failure,2,1543,1549.19,1808,Manual Review
+1025,Headphones,57,36,0,0,Unknown,3,258,75.41,1720,Invalid
+1026,Laptop,55,24,0,0,Unknown,2,2951,2262.51,1640,Invalid
+1027,Laptop,4,12,1,0,Physical Damage,4,2864,2609.56,111,Manual Review
+1028,Tablet,3,24,1,1,Manufacturing Defect,2,238,26.43,86,Valid
+1029,Camera,31,36,1,1,Software Failure,4,520,419.45,925,Manual Review
+1030,Headphones,36,24,1,0,Unknown,3,129,13.06,1070,Invalid
+1031,Refrigerator,18,36,1,1,Battery Failure,0,1380,405.67,546,Valid
+1032,Tablet,13,12,1,0,Water Damage,4,1119,877.66,397,Invalid
+1033,Smartphone,33,12,0,1,Water Damage,3,434,61.76,991,Invalid
+1034,Headphones,39,36,1,0,Physical Damage,3,54,18.24,1178,Invalid
+1035,Refrigerator,53,12,0,1,Water Damage,1,1595,1191.65,1599,Invalid
+1036,Laptop,12,24,1,1,Physical Damage,3,821,881.96,370,Manual Review
+1037,Headphones,45,36,0,0,Water Damage,1,322,219.62,1354,Invalid
+1038,Smartphone,32,24,1,0,Unknown,1,1299,177.2,952,Invalid
+1039,TV,30,24,1,0,Screen Damage,3,517,207.08,895,Manual Review
+1040,Headphones,39,36,0,0,Physical Damage,0,128,74.87,1176,Manual Review
+1041,Washing Machine,31,36,0,1,Electrical Failure,1,1466,1117.47,937,Manual Review
+1042,Tablet,48,36,0,1,Physical Damage,1,347,137.3,1439,Invalid
+1043,Laptop,37,24,1,1,Screen Damage,0,1033,690.59,1115,Manual Review
+1044,Tablet,38,36,0,0,Physical Damage,2,230,173.48,1133,Invalid
+1045,Washing Machine,55,36,1,0,Physical Damage,2,676,529.56,1644,Invalid
+1046,Laptop,9,12,1,1,Battery Failure,2,1386,285.47,271,Valid
+1047,Camera,58,24,1,1,Electrical Failure,4,493,186.1,1748,Manual Review
+1048,Refrigerator,59,12,1,0,Unknown,1,851,237.95,1769,Manual Review
+1049,Laptop,8,24,1,1,Battery Failure,2,2421,1141.84,247,Valid
+1050,TV,40,24,1,0,Physical Damage,3,1548,711.05,1194,Invalid
+1051,Camera,12,12,1,1,Electrical Failure,0,2478,366.71,367,Valid
+1052,TV,51,12,0,0,Physical Damage,4,1443,415.26,1537,Invalid
+1053,Headphones,58,24,1,1,Unknown,4,154,128.59,1746,Manual Review
+1054,Laptop,3,36,1,1,Electrical Failure,2,2054,1292.41,82,Valid
+1055,TV,20,24,0,1,Unknown,4,951,381.13,603,Manual Review
+1056,Refrigerator,59,36,0,1,Water Damage,2,2212,908.64,1772,Invalid
+1057,Tablet,11,36,1,0,Battery Failure,1,782,717.94,324,Manual Review
+1058,Refrigerator,58,36,0,0,Physical Damage,4,1680,1466.08,1731,Invalid
+1059,Tablet,43,24,0,1,Water Damage,4,1077,365.84,1293,Invalid
+1060,Headphones,12,12,1,1,Electrical Failure,2,443,242.42,355,Valid
+1061,Laptop,23,24,1,1,Electrical Failure,2,1948,1663.87,696,Valid
+1062,TV,11,24,1,1,Battery Failure,1,1507,502.07,340,Valid
+1063,Camera,28,24,1,0,Unknown,1,488,374.57,832,Invalid
+1064,Refrigerator,26,24,0,1,Water Damage,4,443,204.99,783,Manual Review
+1065,TV,40,24,0,0,Electrical Failure,1,2490,2585.83,1205,Manual Review
+1066,Refrigerator,20,36,1,1,Electrical Failure,0,847,515.78,601,Manual Review
+1067,Laptop,45,36,0,0,Unknown,4,1745,1315.36,1351,Invalid
+1068,Headphones,57,36,1,0,Physical Damage,2,359,379.95,1713,Manual Review
+1069,TV,13,24,1,1,Manufacturing Defect,0,2246,1371.11,382,Valid
+1070,Smartphone,58,36,1,1,Unknown,2,1471,1174.62,1746,Invalid
+1071,Smartphone,52,36,1,0,Water Damage,4,263,56.2,1566,Invalid
+1072,Camera,3,24,1,1,Software Failure,2,2162,1223.25,97,Valid
+1073,Tablet,47,12,1,1,Unknown,3,656,493.78,1419,Manual Review
+1074,Tablet,1,24,1,1,Software Failure,1,1031,338.37,37,Valid
+1075,Camera,5,36,0,0,Battery Failure,1,985,518.15,150,Manual Review
+1076,Washing Machine,51,36,0,0,Water Damage,4,1683,236.23,1532,Invalid
+1077,Washing Machine,1,24,1,1,Battery Failure,0,1459,913.15,22,Valid
+1078,Laptop,39,36,1,0,Physical Damage,1,2402,2078.61,1177,Invalid
+1079,Refrigerator,46,12,1,1,Electrical Failure,1,1977,361.59,1379,Manual Review
+1080,Laptop,15,24,1,1,Electrical Failure,0,2346,1847.45,445,Valid
+1081,Washing Machine,13,24,1,1,Manufacturing Defect,2,614,394.96,391,Valid
+1082,Smartphone,4,12,1,1,Battery Failure,1,527,419.27,120,Valid
+1083,Laptop,59,36,0,0,Physical Damage,2,2510,479.02,1775,Invalid
+1084,Headphones,8,36,0,1,Unknown,2,194,139.31,232,Manual Review
+1085,Camera,6,24,1,1,Electrical Failure,0,237,80.28,189,Valid
+1086,Refrigerator,51,12,1,1,Manufacturing Defect,4,917,161.09,1523,Manual Review
+1087,Camera,24,36,1,1,Manufacturing Defect,1,257,80.07,713,Valid
+1088,TV,49,24,0,0,Water Damage,4,248,82.1,1474,Invalid
+1089,Headphones,28,36,1,1,Software Failure,2,256,110.42,836,Valid
+1090,Tablet,59,36,1,0,Physical Damage,4,762,351.06,1765,Invalid
+1091,Laptop,36,24,0,1,Physical Damage,2,2165,1514.35,1081,Invalid
+1092,Headphones,45,36,1,1,Software Failure,4,183,181.33,1341,Manual Review
+1093,Refrigerator,35,24,0,1,Manufacturing Defect,1,1631,223.34,1049,Manual Review
+1094,Tablet,32,12,0,0,Unknown,3,368,142.5,953,Invalid
+1095,Washing Machine,18,36,1,1,Battery Failure,1,1741,581.68,548,Valid
+1096,Headphones,54,24,0,0,Physical Damage,4,102,31.45,1620,Invalid
+1097,TV,42,36,0,0,Water Damage,4,1675,1293.05,1254,Invalid
+1098,Headphones,59,12,0,1,Screen Damage,1,344,283.96,1778,Manual Review
+1099,Camera,14,24,1,1,Manufacturing Defect,0,603,185.12,426,Valid
+1100,Tablet,45,24,0,0,Water Damage,1,514,149.93,1359,Invalid
+1101,Smartphone,34,12,0,0,Unknown,1,930,180.93,1030,Invalid
+1102,Camera,39,24,0,0,Unknown,1,2014,1387.1,1180,Invalid
+1103,Refrigerator,20,36,1,0,Unknown,3,2332,2429.24,606,Manual Review
+1104,Refrigerator,45,36,1,0,Electrical Failure,4,711,724.93,1352,Manual Review
+1105,Tablet,4,24,1,1,Manufacturing Defect,1,868,362.24,116,Valid
+1106,TV,10,12,0,1,Water Damage,3,1848,332.99,290,Manual Review
+1107,Camera,31,24,0,0,Water Damage,1,2085,1594.11,935,Invalid
+1108,TV,5,24,1,1,Battery Failure,1,1430,457.78,157,Valid
+1109,Laptop,21,36,1,1,Electrical Failure,2,565,305.1,629,Valid
+1110,Refrigerator,44,36,0,0,Physical Damage,4,605,108.81,1315,Invalid
+1111,Refrigerator,22,12,0,0,Physical Damage,1,1343,579.76,660,Invalid
+1112,Tablet,54,24,0,1,Unknown,1,535,248.43,1611,Invalid
+1113,Smartphone,4,12,1,1,Software Failure,1,195,163.67,118,Valid
+1114,Headphones,18,12,0,0,Manufacturing Defect,3,289,80.98,545,Manual Review
+1115,Washing Machine,12,24,0,0,Software Failure,4,1188,1040.43,362,Manual Review
+1116,Smartphone,2,12,1,1,Manufacturing Defect,2,1281,399.32,56,Valid
+1117,TV,50,36,0,0,Water Damage,1,2148,1828.52,1501,Invalid
+1118,Camera,1,12,1,1,Manufacturing Defect,1,2470,430.89,39,Valid
+1119,Camera,10,12,1,1,Battery Failure,2,797,90.04,307,Valid
+1120,Washing Machine,24,24,1,1,Battery Failure,2,1783,290.17,721,Valid
+1121,Laptop,8,24,1,1,Manufacturing Defect,1,705,543.8,250,Valid
+1122,Laptop,43,12,1,0,Water Damage,4,2446,1741.54,1282,Invalid
+1123,Headphones,25,24,0,1,Unknown,3,129,16.37,759,Invalid
+1124,Refrigerator,5,36,1,1,Manufacturing Defect,2,1165,457.42,146,Valid
+1125,Smartphone,31,12,0,0,Physical Damage,3,1044,243.45,929,Invalid
+1126,Headphones,47,12,1,0,Physical Damage,1,281,221.87,1400,Invalid
+1127,Laptop,56,36,0,0,Physical Damage,3,1029,300.53,1682,Invalid
+1128,Refrigerator,59,24,0,0,Water Damage,4,1159,934.55,1779,Invalid
+1129,Refrigerator,41,36,0,0,Water Damage,1,989,669.62,1235,Invalid
+1130,Smartphone,26,36,1,1,Electrical Failure,0,1259,997.2,771,Valid
+1131,Camera,23,12,1,1,Unknown,4,1749,483.55,682,Invalid
+1132,Refrigerator,8,12,1,1,Manufacturing Defect,0,630,180.24,237,Valid
+1133,Camera,2,36,1,1,Manufacturing Defect,0,502,241.69,55,Manual Review
+1134,Tablet,26,36,1,1,Manufacturing Defect,2,227,101.69,774,Valid
+1135,Tablet,45,36,0,0,Water Damage,3,765,353.91,1340,Invalid
+1136,Washing Machine,28,12,0,0,Water Damage,3,1580,233.91,841,Invalid
+1137,Tablet,2,12,1,1,Battery Failure,1,504,120.35,54,Valid
+1138,Smartphone,46,12,0,0,Physical Damage,4,421,48.29,1381,Invalid
+1139,Smartphone,4,12,1,1,Manufacturing Defect,2,651,365.21,115,Valid
+1140,Refrigerator,12,36,1,1,Manufacturing Defect,2,1622,1254.35,366,Valid
+1141,TV,17,36,1,1,Software Failure,1,408,70.93,513,Valid
+1142,Laptop,14,24,1,1,Manufacturing Defect,1,2729,1335.32,419,Valid
+1143,Refrigerator,2,12,0,0,Water Damage,4,1953,1260.76,67,Manual Review
+1144,Tablet,5,12,1,1,Manufacturing Defect,2,1178,153.37,150,Valid
+1145,Tablet,41,24,1,0,Unknown,4,511,521.61,1223,Manual Review
+1146,Smartphone,26,36,1,1,Unknown,2,901,371.98,779,Manual Review
+1147,Washing Machine,44,36,0,1,Water Damage,4,688,357.25,1325,Invalid
+1148,Smartphone,51,24,1,0,Physical Damage,1,902,230.63,1522,Invalid
+1149,Refrigerator,20,36,1,1,Battery Failure,1,1583,1050.99,605,Valid
+1150,Washing Machine,11,24,1,0,Electrical Failure,1,1562,961.49,338,Manual Review
+1151,Tablet,38,24,0,0,Physical Damage,4,1162,840.2,1138,Invalid
+1152,Tablet,46,36,0,0,Unknown,3,326,57.7,1372,Invalid
+1153,Smartphone,32,24,0,0,Water Damage,3,1467,158.76,953,Invalid
+1154,TV,14,36,1,1,Software Failure,0,2461,879.3,419,Valid
+1155,Washing Machine,7,24,0,1,Software Failure,4,1318,806.06,206,Manual Review
+1156,Refrigerator,8,24,0,1,Battery Failure,4,1738,1571.59,230,Manual Review
+1157,Refrigerator,54,24,1,0,Software Failure,3,1966,708.84,1616,Manual Review
+1158,TV,52,36,1,0,Software Failure,0,416,278.59,1553,Manual Review
+1159,Tablet,24,12,0,1,Physical Damage,2,334,81.86,728,Invalid
+1160,Washing Machine,11,24,1,1,Software Failure,0,1367,664.83,335,Valid
+1161,Refrigerator,39,24,1,0,Electrical Failure,2,970,899.32,1177,Manual Review
+1162,TV,8,12,1,1,Manufacturing Defect,0,697,76.37,237,Valid
+1163,Headphones,15,24,0,0,Software Failure,1,475,370.49,453,Manual Review
+1164,Headphones,32,24,0,0,Physical Damage,3,393,215.63,964,Invalid
+1165,Laptop,16,36,1,1,Electrical Failure,0,2142,664.56,472,Valid
+1166,Refrigerator,46,24,0,1,Water Damage,1,719,115.12,1376,Manual Review
+1167,Headphones,22,12,0,1,Water Damage,1,499,499.07,661,Manual Review
+1168,TV,20,12,1,0,Unknown,3,2410,1219.54,604,Invalid
+1169,Washing Machine,13,24,1,1,Manufacturing Defect,1,1131,528.4,387,Valid
+1170,Washing Machine,42,12,1,0,Electrical Failure,0,517,105.67,1253,Manual Review
+1171,Laptop,19,12,1,0,Screen Damage,0,2324,1802.72,566,Manual Review
+1172,Refrigerator,44,24,0,0,Electrical Failure,0,463,56.02,1326,Manual Review
+1173,Tablet,9,12,1,1,Manufacturing Defect,1,241,193.18,269,Valid
+1174,Camera,9,12,1,1,Battery Failure,2,810,669.65,264,Valid
+1175,Washing Machine,35,24,1,1,Unknown,2,1334,741.96,1043,Invalid
+1176,Refrigerator,26,24,0,0,Physical Damage,2,1114,984.22,779,Invalid
+1177,Refrigerator,31,24,0,0,Software Failure,4,1605,760.18,933,Manual Review
+1178,Tablet,52,36,0,1,Screen Damage,1,161,165.04,1558,Manual Review
+1179,Headphones,43,24,1,1,Physical Damage,4,419,81.22,1292,Manual Review
+1180,Smartphone,41,36,0,0,Physical Damage,3,721,241.67,1220,Invalid
+1181,Laptop,29,36,1,1,Manufacturing Defect,1,840,428.9,874,Valid
+1182,TV,39,36,1,0,Unknown,1,2308,1976.24,1171,Invalid
+1183,Smartphone,31,36,1,1,Manufacturing Defect,1,1357,354.41,924,Valid
+1184,Headphones,39,12,0,1,Unknown,4,455,187.04,1163,Manual Review
+1185,Camera,54,12,0,0,Water Damage,4,1094,646.74,1613,Invalid
+1186,Laptop,55,36,0,0,Water Damage,2,2422,787.48,1655,Invalid
+1187,TV,10,36,0,0,Physical Damage,0,1279,1361.01,296,Manual Review
+1188,Laptop,34,12,0,0,Water Damage,4,551,228.45,1011,Invalid
+1189,Camera,32,12,0,1,Screen Damage,3,512,137.34,960,Manual Review
+1190,Smartphone,8,12,0,0,Unknown,4,749,100.04,231,Manual Review
+1191,Smartphone,58,36,0,0,Manufacturing Defect,3,152,165.62,1743,Manual Review
+1192,Refrigerator,6,36,1,1,Battery Failure,2,1567,1133.22,170,Valid
+1193,TV,7,36,1,1,Software Failure,0,1556,1083.4,207,Valid
+1194,Headphones,32,36,0,0,Electrical Failure,2,236,29.69,952,Manual Review
+1195,Refrigerator,11,36,1,1,Unknown,2,1032,717.23,324,Manual Review
+1196,Washing Machine,53,12,0,0,Manufacturing Defect,1,1298,1379.78,1585,Manual Review
+1197,TV,15,36,1,1,Manufacturing Defect,0,1892,689.13,455,Valid
+1198,Tablet,20,12,0,0,Unknown,2,1002,308.94,595,Invalid
+1199,Smartphone,49,36,0,0,Physical Damage,4,367,260.43,1475,Invalid
+1200,Washing Machine,59,24,1,1,Unknown,1,1366,256.06,1774,Invalid
+1201,Camera,18,12,0,1,Physical Damage,4,1943,1163.08,544,Invalid
+1202,Tablet,38,36,1,1,Unknown,3,958,403.89,1147,Invalid
+1203,Washing Machine,8,24,0,1,Electrical Failure,1,608,253.87,240,Manual Review
+1204,Tablet,53,36,0,1,Unknown,2,108,56.25,1598,Invalid
+1205,Camera,13,12,0,1,Physical Damage,4,1859,1477.95,399,Invalid
+1206,Laptop,36,12,0,1,Physical Damage,4,2372,1182.95,1073,Invalid
+1207,Headphones,20,12,0,0,Physical Damage,2,351,299.73,590,Invalid
+1208,Smartphone,41,24,0,1,Physical Damage,3,682,243.06,1220,Invalid
+1209,TV,20,12,0,0,Water Damage,3,2168,1197.73,598,Invalid
+1210,Camera,1,24,1,1,Software Failure,2,1947,463.86,26,Valid
+1211,Laptop,58,36,1,0,Water Damage,3,2916,2372.77,1740,Invalid
+1212,Washing Machine,4,12,1,1,Software Failure,2,382,52.04,114,Valid
+1213,Camera,41,12,0,0,Battery Failure,4,2261,2032.93,1233,Manual Review
+1214,Refrigerator,24,24,1,1,Manufacturing Defect,0,1989,1084.19,727,Valid
+1215,Refrigerator,28,24,0,1,Screen Damage,2,2065,1479.5,850,Manual Review
+1216,TV,57,12,0,1,Water Damage,3,713,190.99,1702,Invalid
+1217,Refrigerator,47,24,0,1,Physical Damage,2,826,549.39,1414,Invalid
+1218,Camera,1,24,1,1,Software Failure,1,944,462.6,31,Valid
+1219,Tablet,23,36,1,1,Manufacturing Defect,0,1200,497.34,684,Valid
+1220,Smartphone,29,12,0,1,Water Damage,4,785,241.64,871,Invalid
+1221,Washing Machine,50,36,0,1,Water Damage,3,596,232.68,1501,Invalid
+1222,Refrigerator,2,12,1,1,Battery Failure,1,1554,907.32,60,Valid
+1223,Refrigerator,41,24,0,1,Water Damage,2,1019,639.24,1231,Invalid
+1224,Smartphone,7,12,1,1,Battery Failure,0,797,465.56,219,Valid
+1225,Washing Machine,40,36,0,0,Physical Damage,2,1768,1227.01,1203,Invalid
+1226,Smartphone,55,36,0,0,Water Damage,1,1053,491.61,1645,Invalid
+1227,TV,19,24,1,1,Software Failure,1,218,144.71,566,Valid
+1228,Camera,55,36,0,0,Unknown,4,1697,1000.39,1652,Invalid
+1229,TV,1,12,1,1,Electrical Failure,1,2430,1067.5,32,Valid
+1230,Tablet,2,24,1,1,Electrical Failure,1,1052,326.88,58,Valid
+1231,Laptop,21,12,1,1,Water Damage,2,911,421.23,629,Invalid
+1232,Laptop,59,24,1,0,Physical Damage,0,2951,944.21,1761,Manual Review
+1233,Tablet,52,24,0,0,Water Damage,2,1011,880.68,1565,Invalid
+1234,Headphones,48,24,0,0,Unknown,3,215,35.21,1432,Manual Review
+1235,Headphones,46,36,1,0,Water Damage,1,276,87.95,1378,Invalid
+1236,Smartphone,40,24,0,0,Unknown,4,204,74.88,1193,Invalid
+1237,Refrigerator,33,24,0,1,Physical Damage,3,2094,1088.29,986,Invalid
+1238,Smartphone,55,12,1,0,Physical Damage,3,996,860.62,1648,Invalid
+1239,Camera,41,12,0,1,Physical Damage,2,2280,827.79,1228,Manual Review
+1240,Headphones,9,24,1,1,Software Failure,1,228,157.18,278,Valid
+1241,Laptop,54,24,0,0,Physical Damage,3,908,805.71,1619,Invalid
+1242,TV,33,12,0,0,Water Damage,4,1019,408.03,987,Invalid
+1243,Laptop,15,24,1,0,Water Damage,4,934,932.97,447,Manual Review
+1244,Smartphone,60,12,0,1,Water Damage,2,159,77.6,1793,Invalid
+1245,Smartphone,50,36,1,0,Water Damage,4,1342,1376.3,1505,Manual Review
+1246,Tablet,52,12,0,0,Water Damage,1,710,292.49,1560,Invalid
+1247,Laptop,6,12,1,1,Electrical Failure,0,2094,1606.09,179,Valid
+1248,Smartphone,6,12,1,1,Battery Failure,0,1256,331.79,187,Valid
+1249,Camera,35,12,1,0,Unknown,3,862,182.66,1040,Manual Review
+1250,Headphones,35,36,0,1,Screen Damage,4,396,173.24,1047,Manual Review
+1251,Camera,18,24,1,1,Battery Failure,1,1098,349.55,545,Valid
+1252,Smartphone,12,12,1,1,Manufacturing Defect,0,1468,550.55,367,Valid
+1253,Tablet,14,24,1,1,Software Failure,1,517,192.4,414,Valid
+1254,Refrigerator,33,36,1,0,Electrical Failure,1,1513,1329.17,984,Manual Review
+1255,Laptop,56,24,0,0,Water Damage,2,2796,1297.32,1682,Invalid
+1256,Tablet,5,12,1,1,Software Failure,1,1139,357.35,140,Valid
+1257,Laptop,37,12,1,1,Battery Failure,0,1623,1585.68,1110,Manual Review
+1258,Laptop,2,12,1,1,Software Failure,1,2157,1312.64,61,Valid
+1259,Laptop,39,24,0,0,Physical Damage,3,1946,699.37,1178,Invalid
+1260,Headphones,5,12,1,1,Battery Failure,0,411,225.68,148,Valid
+1261,Laptop,1,24,1,1,Software Failure,0,967,757.22,26,Valid
+1262,TV,10,36,1,1,Electrical Failure,1,206,121.92,297,Valid
+1263,Washing Machine,29,12,1,1,Physical Damage,1,1378,1389.42,863,Manual Review
+1264,TV,10,12,1,1,Battery Failure,0,717,343.33,293,Valid
+1265,Camera,47,36,1,1,Water Damage,1,2376,1449.22,1413,Invalid
+1266,Tablet,8,24,0,0,Unknown,1,664,613.18,239,Manual Review
+1267,Camera,3,36,1,1,Electrical Failure,2,2399,1379.56,82,Valid
+1268,Headphones,41,24,1,0,Screen Damage,1,430,429.89,1221,Manual Review
+1269,Tablet,9,12,1,1,Manufacturing Defect,0,240,138.25,267,Valid
+1270,Laptop,49,12,0,0,Unknown,4,1767,1657.79,1462,Manual Review
+1271,Headphones,60,24,1,1,Software Failure,3,280,96.95,1792,Manual Review
+1272,Tablet,58,24,0,0,Unknown,3,158,109.9,1733,Invalid
+1273,Refrigerator,28,36,1,1,Electrical Failure,1,1637,424.59,842,Valid
+1274,Washing Machine,46,36,0,1,Water Damage,4,350,340.89,1388,Manual Review
+1275,Tablet,18,24,1,1,Manufacturing Defect,2,935,163.22,533,Valid
+1276,Camera,52,36,1,1,Unknown,3,401,157.63,1569,Invalid
+1277,Washing Machine,33,24,1,0,Screen Damage,0,343,309.64,987,Manual Review
+1278,Camera,13,24,1,1,Software Failure,1,1738,285.38,397,Valid
+1279,Camera,1,24,1,1,Electrical Failure,1,2209,624.07,37,Valid
+1280,Refrigerator,41,36,0,1,Water Damage,2,1500,394.7,1232,Manual Review
+1281,Refrigerator,48,36,1,0,Unknown,2,887,619.35,1444,Invalid
+1282,Camera,21,24,1,0,Water Damage,0,1819,195.27,630,Manual Review
+1283,Washing Machine,38,24,0,1,Water Damage,3,524,542.87,1139,Manual Review
+1284,Camera,45,36,1,1,Water Damage,1,642,399.87,1340,Invalid
+1285,Headphones,22,24,1,1,Electrical Failure,2,225,170.54,661,Valid
+1286,Camera,50,24,1,0,Water Damage,1,934,287.89,1506,Invalid
+1287,TV,11,12,1,1,Battery Failure,1,1544,498.53,322,Valid
+1288,TV,36,24,0,0,Water Damage,3,1272,366.83,1084,Invalid
+1289,Tablet,56,36,0,1,Unknown,3,476,372.09,1685,Invalid
+1290,TV,9,12,1,1,Electrical Failure,1,470,163.62,273,Valid
+1291,Headphones,37,24,1,0,Electrical Failure,3,411,444.51,1108,Manual Review
+1292,Laptop,17,24,1,1,Electrical Failure,2,1811,839.86,515,Valid
+1293,Headphones,16,36,1,1,Software Failure,1,70,29.11,471,Valid
+1294,Camera,12,36,1,1,Battery Failure,0,523,307.31,362,Valid
+1295,Headphones,59,24,0,0,Electrical Failure,0,152,163.63,1777,Manual Review
+1296,TV,43,36,0,0,Unknown,1,1269,304.6,1296,Invalid
+1297,Headphones,22,36,1,1,Electrical Failure,1,400,245.34,665,Valid
+1298,Headphones,37,36,0,1,Water Damage,2,389,240.8,1100,Invalid
+1299,TV,39,36,0,0,Unknown,3,862,571.2,1178,Invalid
+1300,Headphones,32,36,1,1,Manufacturing Defect,0,352,206.66,957,Valid
+1301,Refrigerator,16,36,1,1,Software Failure,1,2420,2173.72,476,Valid
+1302,Washing Machine,58,36,0,0,Unknown,4,767,161.37,1743,Invalid
+1303,Refrigerator,47,36,1,0,Physical Damage,4,755,375.72,1407,Invalid
+1304,Headphones,5,12,1,1,Software Failure,2,357,125.21,152,Valid
+1305,Laptop,46,24,0,0,Physical Damage,4,2169,688.58,1382,Invalid
+1306,Tablet,38,36,0,0,Physical Damage,4,691,415.4,1133,Invalid
+1307,Camera,5,24,1,1,Battery Failure,1,1142,461.22,147,Valid
+1308,Headphones,7,12,1,1,Battery Failure,1,266,79.76,202,Valid
+1309,Washing Machine,50,36,1,0,Water Damage,2,633,645.29,1499,Manual Review
+1310,Laptop,12,12,1,1,Software Failure,1,2574,1818.61,365,Valid
+1311,Laptop,26,12,1,0,Water Damage,4,2917,433.35,787,Invalid
+1312,Smartphone,23,24,1,1,Electrical Failure,1,1215,881.05,691,Valid
+1313,Washing Machine,10,24,1,1,Battery Failure,1,572,350.79,294,Valid
+1314,Laptop,58,24,0,0,Water Damage,2,2070,1561.44,1735,Manual Review
+1315,Headphones,10,36,1,1,Software Failure,0,405,209.55,310,Valid
+1316,Washing Machine,46,24,1,0,Screen Damage,1,748,623.35,1384,Manual Review
+1317,Refrigerator,47,36,0,0,Physical Damage,4,1019,554.89,1420,Invalid
+1318,Smartphone,8,12,1,1,Manufacturing Defect,1,937,228.61,234,Valid
+1319,Refrigerator,52,36,0,0,Physical Damage,2,1282,1148.88,1559,Invalid
+1320,TV,33,36,1,1,Screen Damage,0,1195,272.86,998,Manual Review
+1321,Laptop,7,36,1,1,Software Failure,1,1269,233.93,212,Manual Review
+1322,Headphones,33,24,0,0,Unknown,3,439,142.87,982,Invalid
+1323,Laptop,11,24,1,1,Battery Failure,1,2898,424.3,334,Valid
+1324,Tablet,5,12,1,1,Electrical Failure,2,950,228.49,144,Valid
+1325,Tablet,2,36,1,1,Manufacturing Defect,2,1186,322.72,63,Valid
+1326,Washing Machine,1,36,1,1,Manufacturing Defect,2,1238,752.55,31,Valid
+1327,Washing Machine,42,12,1,0,Unknown,3,852,223.03,1254,Invalid
+1328,Smartphone,8,24,1,1,Manufacturing Defect,2,182,128.02,237,Valid
+1329,Headphones,3,12,1,1,Electrical Failure,1,103,61.24,92,Valid
+1330,Washing Machine,3,24,1,1,Battery Failure,2,1051,439.77,100,Valid
+1331,Washing Machine,19,36,1,1,Electrical Failure,1,1534,1034.12,565,Valid
+1332,TV,36,12,1,0,Water Damage,4,2473,1141.03,1070,Invalid
+1333,Headphones,50,36,0,1,Physical Damage,4,451,103.85,1506,Invalid
+1334,Smartphone,11,24,1,1,Software Failure,2,438,338.31,324,Valid
+1335,Camera,59,12,0,1,Battery Failure,1,1987,1720.1,1771,Manual Review
+1336,Washing Machine,22,24,1,1,Manufacturing Defect,1,1495,517.48,670,Valid
+1337,TV,29,12,0,0,Manufacturing Defect,2,1198,1044.26,875,Manual Review
+1338,Tablet,53,24,0,0,Water Damage,0,506,347.49,1599,Manual Review
+1339,Refrigerator,55,24,0,1,Physical Damage,4,887,840.56,1641,Manual Review
+1340,Tablet,10,24,1,1,Electrical Failure,0,115,57.26,303,Valid
+1341,TV,16,24,1,1,Manufacturing Defect,0,1346,234.77,477,Valid
+1342,Washing Machine,56,24,1,1,Water Damage,4,1753,921.24,1687,Invalid
+1343,Headphones,11,12,1,1,Software Failure,1,262,41.5,321,Valid
+1344,Camera,7,12,1,1,Battery Failure,2,1403,500.83,202,Valid
+1345,Laptop,37,12,0,0,Unknown,1,1118,350.59,1105,Invalid
+1346,Tablet,44,36,0,1,Electrical Failure,4,306,153.53,1310,Manual Review
+1347,Refrigerator,41,24,0,0,Unknown,4,2261,1112.96,1240,Manual Review
+1348,Laptop,37,36,0,1,Water Damage,3,1974,769.5,1104,Invalid
+1349,Headphones,37,12,1,1,Software Failure,4,305,155.08,1101,Manual Review
+1350,Laptop,33,24,1,1,Water Damage,4,2438,1064.3,981,Invalid
+1351,Tablet,42,36,1,1,Physical Damage,2,459,354.1,1254,Invalid
+1352,Laptop,55,12,0,0,Physical Damage,3,2895,2523.13,1649,Invalid
+1353,Headphones,16,36,1,1,Electrical Failure,1,173,130.3,482,Valid
+1354,Washing Machine,26,24,0,0,Physical Damage,4,1576,341.45,771,Invalid
+1355,TV,13,12,0,1,Water Damage,1,2461,671.44,384,Manual Review
+1356,Headphones,10,12,1,1,Electrical Failure,2,242,96.83,292,Valid
+1357,Headphones,8,24,1,1,Electrical Failure,0,355,89.5,238,Valid
+1358,TV,50,12,1,0,Unknown,4,711,644.64,1500,Manual Review
+1359,Smartphone,6,12,1,1,Manufacturing Defect,0,1302,280.39,182,Valid
+1360,Camera,19,24,1,1,Manufacturing Defect,0,1498,919.58,574,Valid
+1361,Tablet,8,12,1,1,Manufacturing Defect,1,855,405.21,247,Valid
+1362,Camera,21,24,1,1,Battery Failure,1,371,278.69,626,Manual Review
+1363,Washing Machine,15,36,1,1,Manufacturing Defect,2,1250,1034.39,449,Valid
+1364,Refrigerator,8,12,1,1,Manufacturing Defect,1,2028,966.86,238,Valid
+1365,Tablet,4,24,1,1,Battery Failure,2,387,213.64,116,Manual Review
+1366,Laptop,1,12,1,1,Software Failure,1,2015,445.61,26,Valid
+1367,Headphones,44,36,1,1,Unknown,2,283,147.68,1330,Invalid
+1368,Washing Machine,30,36,1,0,Software Failure,3,1067,671.1,891,Manual Review
+1369,Refrigerator,48,24,1,1,Water Damage,2,2275,386.4,1442,Invalid
+1370,TV,22,12,1,1,Manufacturing Defect,0,2466,1012.26,659,Manual Review
+1371,Headphones,11,36,1,1,Electrical Failure,2,476,278.59,326,Valid
+1372,Headphones,11,12,0,1,Physical Damage,4,177,177.11,339,Manual Review
+1373,Smartphone,54,12,0,1,Physical Damage,4,438,70.03,1625,Invalid
+1374,Washing Machine,40,24,0,0,Water Damage,3,411,311.25,1206,Invalid
+1375,Laptop,1,36,1,1,Battery Failure,1,1738,1178.27,40,Valid
+1376,Tablet,41,36,0,0,Water Damage,2,1090,927.96,1221,Invalid
+1377,Laptop,32,36,1,1,Manufacturing Defect,4,741,424.06,953,Manual Review
+1378,Tablet,49,24,0,0,Unknown,2,934,177.72,1470,Invalid
+1379,Tablet,56,12,0,1,Water Damage,4,997,516.58,1672,Invalid
+1380,Laptop,12,12,1,1,Software Failure,0,2481,1768.13,354,Valid
+1381,Laptop,54,24,0,0,Water Damage,1,2264,857.08,1621,Invalid
+1382,Refrigerator,60,12,1,1,Physical Damage,2,2090,1723.21,1806,Invalid
+1383,Headphones,1,12,1,0,Water Damage,0,305,312.62,39,Manual Review
+1384,Headphones,15,24,1,1,Electrical Failure,0,76,17.18,449,Valid
+1385,Smartphone,38,24,0,0,Physical Damage,4,860,405.01,1131,Invalid
+1386,Headphones,21,12,1,1,Battery Failure,1,315,225.74,630,Manual Review
+1387,Camera,38,24,0,1,Battery Failure,1,2096,341.65,1137,Manual Review
+1388,Laptop,39,36,0,0,Physical Damage,2,380,201.68,1161,Invalid
+1389,Washing Machine,39,12,0,1,Unknown,1,1222,569.34,1178,Invalid
+1390,TV,43,24,1,1,Water Damage,0,1787,362.41,1284,Manual Review
+1391,Headphones,25,12,1,0,Electrical Failure,3,311,65.38,759,Manual Review
+1392,Smartphone,40,36,0,0,Physical Damage,1,1220,368.67,1194,Invalid
+1393,Smartphone,18,24,1,0,Manufacturing Defect,3,965,902.59,538,Manual Review
+1394,Smartphone,30,36,1,1,Electrical Failure,2,144,60.01,890,Valid
+1395,Tablet,2,12,1,1,Battery Failure,0,493,293.74,58,Valid
+1396,Smartphone,4,24,1,1,Battery Failure,3,661,76.4,116,Manual Review
+1397,Laptop,49,36,0,0,Physical Damage,1,1778,743.29,1473,Invalid
+1398,Laptop,39,12,0,1,Water Damage,4,1739,479.15,1169,Invalid
+1399,Laptop,18,24,1,1,Electrical Failure,1,1381,561.29,545,Valid
+1400,TV,33,12,0,1,Water Damage,2,220,95.53,981,Invalid
+1401,Washing Machine,10,36,1,1,Software Failure,1,1521,319.86,302,Valid
+1402,Washing Machine,59,24,0,0,Water Damage,4,1448,1217.88,1760,Invalid
+1403,Laptop,16,24,1,0,Water Damage,3,1071,976.46,485,Manual Review
+1404,Headphones,11,12,1,1,Manufacturing Defect,1,485,123.98,323,Valid
+1405,Laptop,11,36,1,1,Battery Failure,0,2193,885.02,340,Valid
+1406,TV,42,36,1,0,Physical Damage,2,201,176.98,1252,Invalid
+1407,Tablet,7,12,1,1,Manufacturing Defect,0,1161,258.22,205,Valid
+1408,Smartphone,20,36,1,1,Electrical Failure,0,163,140.45,604,Valid
+1409,Tablet,38,24,0,1,Water Damage,3,229,45.02,1134,Invalid
+1410,Washing Machine,23,24,1,1,Software Failure,1,927,279.14,683,Valid
+1411,TV,7,12,1,1,Software Failure,1,1075,851.1,201,Valid
+1412,Refrigerator,8,24,1,0,Physical Damage,0,2220,297.71,234,Manual Review
+1413,Headphones,48,36,0,1,Manufacturing Defect,3,81,68.52,1440,Manual Review
+1414,Washing Machine,51,12,0,1,Manufacturing Defect,3,370,363.17,1537,Manual Review
+1415,Tablet,7,12,1,1,Electrical Failure,2,272,153.91,208,Valid
+1416,Camera,16,36,0,0,Physical Damage,1,1542,459.11,478,Manual Review
+1417,TV,9,24,1,1,Electrical Failure,1,1536,544.43,268,Valid
+1418,Washing Machine,11,12,1,1,Electrical Failure,2,1620,626.84,332,Valid
+1419,Laptop,24,12,1,0,Unknown,3,2993,678.04,729,Invalid
+1420,Camera,36,36,1,1,Electrical Failure,2,1353,457.21,1073,Valid
+1421,Smartphone,11,12,1,1,Software Failure,0,354,298.62,325,Valid
+1422,Headphones,31,12,1,1,Physical Damage,4,456,388.95,940,Invalid
+1423,Headphones,35,12,0,1,Screen Damage,1,337,333.0,1045,Manual Review
+1424,Laptop,24,36,1,1,Manufacturing Defect,1,1920,1092.12,720,Valid
+1425,Refrigerator,24,36,1,1,Software Failure,2,1808,796.25,727,Valid
+1426,Washing Machine,35,36,1,0,Electrical Failure,3,1250,411.28,1045,Manual Review
+1427,Refrigerator,42,24,0,0,Physical Damage,4,2288,1643.98,1257,Invalid
+1428,Refrigerator,2,36,0,0,Software Failure,2,2226,2146.43,57,Manual Review
+1429,Camera,33,36,1,1,Software Failure,1,2214,957.56,994,Valid
+1430,Washing Machine,1,12,1,1,Battery Failure,0,1532,303.82,27,Manual Review
+1431,Laptop,49,36,0,1,Battery Failure,3,1766,427.99,1477,Manual Review
+1432,Camera,30,12,0,0,Physical Damage,4,1562,1052.65,893,Invalid
+1433,Headphones,5,24,1,1,Screen Damage,4,361,321.78,154,Manual Review
+1434,Headphones,3,24,1,1,Manufacturing Defect,1,406,145.29,88,Valid
+1435,Tablet,14,36,0,1,Water Damage,2,1147,669.8,414,Manual Review
+1436,Refrigerator,34,24,0,1,Unknown,2,1240,842.77,1024,Invalid
+1437,TV,6,36,0,1,Physical Damage,4,631,660.03,179,Manual Review
+1438,TV,28,24,0,0,Water Damage,4,2237,539.25,831,Invalid
+1439,TV,45,36,1,1,Unknown,1,1062,248.01,1343,Invalid
+1440,Headphones,1,12,1,1,Electrical Failure,1,275,124.4,25,Valid
+1441,Camera,19,36,1,1,Battery Failure,0,1922,1214.6,572,Valid
+1442,Refrigerator,9,36,0,1,Screen Damage,4,1157,490.87,272,Manual Review
+1443,Smartphone,3,12,1,1,Electrical Failure,0,608,118.41,93,Valid
+1444,Tablet,54,36,0,0,Physical Damage,2,748,662.23,1630,Invalid
+1445,TV,43,36,0,0,Water Damage,1,1740,1634.1,1295,Manual Review
+1446,Tablet,11,36,1,1,Electrical Failure,2,973,843.37,327,Valid
+1447,TV,1,36,1,1,Water Damage,4,373,218.54,36,Manual Review
+1448,TV,42,36,0,0,Software Failure,3,737,273.59,1263,Manual Review
+1449,Tablet,56,12,1,0,Water Damage,0,770,799.51,1674,Manual Review
+1450,Refrigerator,44,36,0,1,Physical Damage,2,2086,1680.75,1323,Invalid
+1451,Camera,6,36,1,1,Software Failure,1,1590,440.84,175,Valid
+1452,Headphones,1,12,1,1,Electrical Failure,0,470,205.79,24,Valid
+1453,Refrigerator,35,36,1,1,Software Failure,1,2184,1661.12,1058,Valid
+1454,Laptop,22,36,1,1,Electrical Failure,1,1215,1120.57,660,Manual Review
+1455,Smartphone,3,24,1,1,Electrical Failure,1,762,146.87,92,Valid
+1456,Headphones,22,24,0,1,Physical Damage,4,412,423.72,663,Manual Review
+1457,TV,30,12,0,1,Battery Failure,1,2093,2197.07,903,Manual Review
+1458,TV,60,24,1,0,Water Damage,3,2490,1354.38,1798,Invalid
+1459,Headphones,23,36,0,0,Unknown,4,348,128.45,693,Manual Review
+1460,TV,41,12,0,0,Physical Damage,3,837,286.97,1220,Invalid
+1461,Washing Machine,31,12,1,0,Unknown,2,1483,1299.27,927,Invalid
+1462,Headphones,6,12,0,1,Screen Damage,2,334,332.76,180,Manual Review
+1463,TV,25,12,1,0,Water Damage,3,2249,1113.73,757,Invalid
+1464,Washing Machine,40,12,1,0,Software Failure,0,388,390.37,1209,Manual Review
+1465,Camera,59,12,0,0,Unknown,1,2320,482.72,1769,Invalid
+1466,Camera,11,12,1,1,Manufacturing Defect,2,1677,258.5,336,Valid
+1467,Tablet,16,12,0,1,Software Failure,1,510,465.98,476,Manual Review
+1468,Camera,10,36,1,1,Battery Failure,0,925,744.75,290,Valid
+1469,TV,9,36,1,1,Electrical Failure,3,2021,1836.71,264,Manual Review
+1470,Laptop,19,24,1,1,Battery Failure,1,2597,2284.42,579,Valid
+1471,Smartphone,57,36,0,0,Unknown,3,264,204.06,1709,Invalid
+1472,Refrigerator,30,24,0,0,Water Damage,2,2080,1526.96,900,Invalid
+1473,Washing Machine,50,12,0,0,Water Damage,4,1608,1337.1,1503,Invalid
+1474,Smartphone,59,36,1,0,Unknown,4,536,336.95,1774,Invalid
+1475,Smartphone,20,36,0,1,Manufacturing Defect,4,788,660.47,608,Manual Review
+1476,Refrigerator,51,36,0,1,Physical Damage,2,1791,1556.36,1534,Invalid
+1477,Smartphone,1,12,1,1,Battery Failure,0,1066,417.0,24,Valid
+1478,Washing Machine,43,36,0,0,Physical Damage,4,849,467.33,1293,Invalid
+1479,Laptop,10,24,1,1,Software Failure,2,2525,1311.62,294,Valid
+1480,Smartphone,60,36,1,0,Software Failure,0,292,250.22,1802,Manual Review
+1481,Tablet,23,12,0,0,Unknown,4,138,110.79,689,Invalid
+1482,TV,1,12,1,1,Software Failure,0,1154,615.35,40,Valid
+1483,Camera,21,24,0,1,Screen Damage,1,2103,1819.21,631,Manual Review
+1484,Washing Machine,13,36,0,0,Physical Damage,0,573,238.16,381,Manual Review
+1485,TV,44,36,0,0,Physical Damage,4,1335,191.66,1321,Invalid
+1486,Headphones,53,36,0,0,Water Damage,0,413,101.67,1588,Manual Review
+1487,Smartphone,47,24,0,0,Electrical Failure,3,1491,1153.03,1403,Manual Review
+1488,Tablet,23,36,0,1,Software Failure,1,527,578.75,687,Manual Review
+1489,Laptop,12,12,0,1,Electrical Failure,1,1944,2137.02,365,Manual Review
+1490,Headphones,31,24,1,1,Battery Failure,1,226,98.29,937,Manual Review
+1491,Refrigerator,47,12,1,1,Screen Damage,1,2415,416.23,1407,Manual Review
+1492,Headphones,45,24,1,0,Physical Damage,4,421,255.38,1350,Invalid
+1493,Laptop,52,12,1,1,Physical Damage,4,2239,2118.91,1556,Manual Review
+1494,Refrigerator,12,12,1,1,Unknown,2,778,382.7,361,Manual Review
+1495,Washing Machine,21,36,1,1,Battery Failure,1,439,208.59,640,Valid
+1496,Smartphone,50,12,0,1,Electrical Failure,4,264,259.93,1503,Manual Review
+1497,TV,22,24,1,1,Software Failure,1,1354,978.26,666,Valid
+1498,TV,37,24,1,0,Screen Damage,3,1361,791.34,1103,Manual Review
+1499,Headphones,27,24,1,0,Manufacturing Defect,2,273,129.84,804,Manual Review
+1500,Laptop,24,12,0,0,Battery Failure,1,639,278.39,711,Manual Review
